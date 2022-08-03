@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter02/JavaCMDline/page26/HelloAppCompile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter02/JavaCMDline/page26/RunningJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/CaseApp_page50.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/CaseApp_page50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/HelloApp_page46.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/HelloApp_page46.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/ImportantFeatures/page13/TypeChecking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/JavaVersusOtherLanguages/page12/HelloWorldApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ProgrammingBasics/ImportantFeatures/page13/TypeChecking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ProgrammingBasics/JavaVersusOtherLanguages/page12/HelloWorldApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1/ImportantFeatures/page13/TypeChecking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1/JavaVersusOtherLanguages/page12/HelloWorldApp.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +71,7 @@
     <configuration name="HelloWorldApp" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11 (3)" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Book1.Chapter01.JavaVersusOtherLanguages.page12.HelloWorldApp" />
+      <option name="MAIN_CLASS_NAME" value="Book1.Chapter01.ProgrammingBasics.JavaVersusOtherLanguages.page12.HelloWorldApp" />
       <module name="Dummies" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,7 +80,7 @@
     <configuration name="TypeChecking" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11 (3)" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Book1.Chapter01.ImportantFeatures.page13.TypeChecking" />
+      <option name="MAIN_CLASS_NAME" value="Book1.Chapter01.ProgrammingBasics.ImportantFeatures.page13.TypeChecking" />
       <module name="Dummies" />
       <method v="2">
         <option name="Make" enabled="true" />
