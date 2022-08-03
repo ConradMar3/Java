@@ -1,8 +1,0 @@
-Backspace = \b
-Horizontal tab = \t
-Line feed = \n
-Form feed = \f
-Carriage return = \r
-Double quote = \"
-Single quote = \'
-Backslash = \\

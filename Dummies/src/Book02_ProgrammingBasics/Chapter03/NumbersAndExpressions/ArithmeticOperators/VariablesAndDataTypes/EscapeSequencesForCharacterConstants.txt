@@ -1,8 +1,0 @@
-\b Backspace
-\t Horizontal tab
-\n Line feed
-\f Form feed
-\r Carriage return
-\" Double quote
-\' Single quote
-\\ Backslash
