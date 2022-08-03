@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter02/JavaCMDline/page26/HelloAppCompile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter02/JavaCMDline/page26/RunningJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/CaseApp_page50.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/CaseApp_page50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/HelloApp_page46.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/HelloApp_page46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Blocks/Blocks_page53.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Blocks/Blocks_page53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/CreatingObjectFromClass_page59.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/CreatingObjectFromClass_page59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter02_page62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter_page61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/HelloApp2_page60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/DeclarationStatement_page51.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/DeclarationStatement_page51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/ExpressionStatement_page51.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/ExpressionStatement_page51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ProgrammingBasics/ImportantFeatures/page13/TypeChecking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ProgrammingBasics/JavaVersusOtherLanguages/page12/HelloWorldApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1/ImportantFeatures/page13/TypeChecking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1/JavaVersusOtherLanguages/page12/HelloWorldApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,16 @@
       <recent name="Book1.Chapter01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TypeChecking">
+  <component name="RunManager" selected="Application.HelloApp2_page60">
+    <configuration name="HelloApp2_page60" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11 (3)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Book2.Chapter01.ObjectOrientatedProgramming.HelloApp2.HelloApp2_page60" />
+      <module name="Dummies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorldApp" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11 (3)" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -89,6 +99,7 @@
     <list>
       <item itemvalue="Application.HelloWorldApp" />
       <item itemvalue="Application.TypeChecking" />
+      <item itemvalue="Application.HelloApp2_page60" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
