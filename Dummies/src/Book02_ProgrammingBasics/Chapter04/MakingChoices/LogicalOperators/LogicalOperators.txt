@@ -1,0 +1,19 @@
+! - Not Unary Returns true if the operand to the right evaluates to false.
+Returns false if the operand to the right is true.
+
+& - And Binary Returns true if both of the operands evaluate to true. Both
+operands are evaluated before the And operator is applied.
+
+| - Or Binary Returns true if at least one of the operands evaluates to
+true. Both operands are evaluated before the Or operator
+is applied.
+
+^ - Xor Binary Returns true if one — and only one — of the operands
+evaluates to true. Returns false if both operands evaluate
+to true or if both operands evaluate to false.
+
+&& - Conditional And Binary Same as &, but if the operand on the left returns false,
+returns false without evaluating the operand on the right.
+
+|| - Conditional Or Binary Same as |, but if the operand on the left returns true,
+returns true without evaluating the operand on the right.
