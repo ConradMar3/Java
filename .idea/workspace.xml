@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Blocks/Blocks_page53.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Blocks/Blocks_page53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/CreatingObjectFromClass_page59.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/CreatingObjectFromClass_page59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter02_page62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter_page61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/HelloApp2_page60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/DeclarationStatement_page51.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/DeclarationStatement_page51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/ExpressionStatement_page51.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/ExpressionStatement_page51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/ConvertingAndCastingNumericData/TypeCasting_page86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/BooleanType_page79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/CharType_page78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/FloatingPointTypes_page76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/IntegerTypes_page75.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
