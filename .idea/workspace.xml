@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book1/ImportantFeatures/page13/TypeChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/page12/HelloWorldApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1/JavaVersusOtherLanguages/page12/HelloWorldApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/page12/HelloWorldApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/ImportantFeatures/page13/TypeChecking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ImportantFeatures/page13/TypeChecking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/JavaVersusOtherLanguages/page12/HelloWorldApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/JavaVersusOtherLanguages/page12/HelloWorldApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +31,15 @@
     <scope name="Dummies" pattern="file:Dummies/src/Book03_ObjectOrientatedProgramming/Chapter05/TickTock/TickTock.java" />
   </component>
   <component name="ProjectId" id="2Cpbci5pltfkRaXNNypJMXCZNtc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -46,14 +51,19 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book1\Chapter01\JavaVersusOtherLanguages\page12" />
+      <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book1\Chapter01\ImportantFeatures\page13" />
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Book1.Chapter01" />
     </key>
   </component>
   <component name="RunManager" selected="Application.TypeChecking">
     <configuration name="HelloWorldApp" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11 (3)" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Book1.JavaVersusOtherLanguages.page12.HelloWorldApp" />
+      <option name="MAIN_CLASS_NAME" value="Book1.Chapter01.JavaVersusOtherLanguages.page12.HelloWorldApp" />
       <module name="Dummies" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,7 +72,7 @@
     <configuration name="TypeChecking" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11 (3)" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Book1.ImportantFeatures.page13.TypeChecking" />
+      <option name="MAIN_CLASS_NAME" value="Book1.Chapter01.ImportantFeatures.page13.TypeChecking" />
       <module name="Dummies" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,5 +104,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

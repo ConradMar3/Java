@@ -1,4 +1,4 @@
-package Book1.JavaVersusOtherLanguages.page12;
+package Book1.Chapter01.JavaVersusOtherLanguages.page12;
 
 public class HelloWorldApp {
     public static void main(String[] args) {

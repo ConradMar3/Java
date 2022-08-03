@@ -1,4 +1,4 @@
-package Book1.ImportantFeatures.page13;
+package Book1.Chapter01.ImportantFeatures.page13;
 
 /** The type Type checking. */
 public class TypeChecking {
