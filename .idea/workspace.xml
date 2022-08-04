@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/ConvertingAndCastingNumericData/TypeCasting_page86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/BooleanType_page79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/CharType_page78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/FloatingPointTypes_page76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/IntegerTypes_page75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/ReferenceTypes_page80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DeclaringVariables/ClassVariables01_page67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DeclaringVariables/ClassVariables02_page68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java All-in-One For Dummies ( PDFDrive ).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
