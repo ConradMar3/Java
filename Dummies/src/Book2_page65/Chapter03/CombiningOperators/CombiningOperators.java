@@ -1,4 +1,4 @@
-package Book2_page65.Chapter03.ArithmeticOperators.CombiningOperators;
+package Book2_page65.Chapter03.CombiningOperators;
 
 public class CombiningOperators {
     public static void main(String[] args) {
