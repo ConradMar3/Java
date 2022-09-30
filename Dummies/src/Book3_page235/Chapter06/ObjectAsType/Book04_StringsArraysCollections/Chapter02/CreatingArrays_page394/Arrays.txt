@@ -1,0 +1,41 @@
+Before you can create an array, you must declare a variable that refers to the array.
+This variable declaration should indicate the type of elements that are stored by the
+array followed by a set of empty brackets, like this:
+
+> String[] names;
+
+Here a variable named names is declared. Its type is an array of String objects.
+
+Java also lets you
+put the brackets on the variable name rather than on the type:
+
+> int[] array1; // an array of int elements.
+> int array2[]; // another array of int elements.
+
+By itself, that statement doesn’t create an array; it merely declares a variable that
+can refer to an array. You can actually create the array in two ways:
+
+>> Use the new keyword followed by the array type, this time with the brackets
+   filled in to indicate how many elements the array can hold. For example:
+
+  > String[] names;
+    names = new String[10];
+
+  Here, an array of String objects that can hold ten strings is created. Each of
+  the strings in this array is initialized to an empty string
+
+>> As with any other variable, you can combine the declaration and the creation
+   into one statement:
+
+   > String[] names = new String[10];
+
+  Here the array variable is declared and an array is created in one statement.
+
+If you don’t know how many elements the array needs at compile time, you
+can use a variable or an expression for the array length. Here’s a routine from a
+method that stores player names in an array of strings. It starts by asking the user
+how many players are on the team. Then it creates an array of the correct size:
+
+ > System.out.print("How many players? ");
+   int count = sc.nextInt(); // sc is a Scanner
+   String[] players = new String[count];

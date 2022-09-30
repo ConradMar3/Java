@@ -1,0 +1,29 @@
+/*
+1. An import statement can import all the classes in a package by using an asterisk
+   wildcard. Here all the classes in the java.util package are imported:
+
+  > import java.util.*;
+
+2. Alternatively, you can import classes one at a time. Here just the ArrayList class
+   is imported:
+
+   > import java.util.ArrayList;
+
+3. Note: You don’t have to use an import statement to use a class from a package.
+   But if you don’t use an import statement, you must fully qualify any references to
+   the class. For example, you can use the ArrayList class without importing java.
+   util:
+
+   > java.util.ArrayList = new java.util.ArrayList();
+
+4. You never have to explicitly import two packages:
+
+  > java.lang:
+  (This package contains classes that are so commonly used that the
+   Java compiler makes them available to every program.)
+
+5. The default package:
+
+   (This package contains classes that aren’t specifically
+    put in some other package.)
+*/
