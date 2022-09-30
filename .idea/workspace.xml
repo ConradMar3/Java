@@ -5,44 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DeclaringInstanceVariable/HelloApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DeclaringLocalVariables/Error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DeclaringLocalVariables/HelloApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter03/ArithmeticOperators/ArithmeticOperatorIntAndDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ProgrammingBasics/ImportantFeatures/page13/TypeChecking.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1_page45/Chapter01/ProgrammingBasics/ImportantFeatures/page13/TypeChecking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ProgrammingBasics/ImportantFeatures/page13/TypeChecking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1_page45/Chapter01/ProgrammingBasics/ImportantFeatures/page13/TypeChecking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ProgrammingBasics/JavaVersusOtherLanguages/page12/HelloWorldApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1_page45/Chapter01/ProgrammingBasics/JavaVersusOtherLanguages/page12/HelloWorldApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter01/ProgrammingBasics/JavaVersusOtherLanguages/page12/HelloWorldApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1_page45/Chapter01/ProgrammingBasics/JavaVersusOtherLanguages/page12/HelloWorldApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter02/JavaCMDline/page26/HelloAppCompile.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1_page45/Chapter02/JavaCMDline/page26/HelloAppCompile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter02/JavaCMDline/page26/HelloAppCompile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1_page45/Chapter02/JavaCMDline/page26/HelloAppCompile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter02/JavaCMDline/page26/RunningJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1_page45/Chapter02/JavaCMDline/page26/RunningJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book1/Chapter02/JavaCMDline/page26/RunningJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book1_page45/Chapter02/JavaCMDline/page26/RunningJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Blocks/Blocks_page53.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/Blocks/Blocks_page53.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Blocks/Blocks_page53.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/Blocks/Blocks_page53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/CaseApp_page50.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/CaseApp_page50.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/CaseApp_page50.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/CaseApp_page50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/HelloApp_page46.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/HelloApp_page46.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/HelloApp_page46.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/HelloApp_page46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/CreatingObjectFromClass_page59.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/ObjectOrientatedProgramming/CreatingObjectFromClass_page59.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/CreatingObjectFromClass_page59.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/ObjectOrientatedProgramming/CreatingObjectFromClass_page59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter02_page62.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter02_page62.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter02_page62.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter02_page62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter_page61.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter_page61.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter_page61.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter_page61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/ObjectOrientatedProgramming/HelloApp2/HelloApp2_page60.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/ObjectOrientatedProgramming/HelloApp2/HelloApp2_page60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/DeclarationStatement_page51.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/Staments/DeclarationStatement_page51.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/DeclarationStatement_page51.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/Staments/DeclarationStatement_page51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/ExpressionStatement_page51.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/Staments/ExpressionStatement_page51.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter01/Staments/ExpressionStatement_page51.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter01/Staments/ExpressionStatement_page51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/ConvertingAndCastingNumericData/TypeCasting_page86.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/ConvertingAndCastingNumericData/TypeCasting_page86.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/BooleanType_page79.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DataTypes/BooleanType_page79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/CharType_page78.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DataTypes/CharType_page78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/FloatingPointTypes_page76.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DataTypes/FloatingPointTypes_page76.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/IntegerTypes_page75.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DataTypes/IntegerTypes_page75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DataTypes/ReferenceTypes_page80.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DataTypes/ReferenceTypes_page80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DeclaringVariables/ClassVariables01_page67.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DeclaringVariables/ClassVariables01_page67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2/Chapter02/DeclaringVariables/ClassVariables02_page68.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter02/DeclaringVariables/ClassVariables02_page68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter03/DividingIntegers/MarblesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter03/FormattingNumbers/FormattingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter03/FormattingNumbers/NumberFormatClassApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter03/MathClass/CircleAreaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter03/MathClass/MathFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter03/ArithmeticOperators/CombiningOperators/CombiningOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book2_page65/Chapter03/CombiningOperators/CombiningOperators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,18 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ConradMaré/Desktop/Java-Dummies/Java/Dummies/src/Book2_page65/Chapter03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book2_page65\Chapter03" />
+      <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book2_page65\Chapter03\ArithmeticOperators" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book1\Chapter01\JavaVersusOtherLanguages\page12" />
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book1\Chapter01\ImportantFeatures\page13" />
@@ -95,6 +68,8 @@
       <recent name="Book1.Chapter01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Book2_page65.Chapter03.ArithmeticOperators.DividingIntegers" />
+      <recent name="Book2_page65.Chapter03.ArithmeticOperators.CombiningOperators" />
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
@@ -161,7 +136,7 @@
       <updated>1659502557277</updated>
       <workItem from="1664303305661" duration="714000" />
       <workItem from="1664447864665" duration="1462000" />
-      <workItem from="1664526321126" duration="712000" />
+      <workItem from="1664526321126" duration="1021000" />
     </task>
     <servers />
   </component>
