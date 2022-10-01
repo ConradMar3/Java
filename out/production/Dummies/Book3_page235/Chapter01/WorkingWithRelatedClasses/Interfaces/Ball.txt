@@ -1,0 +1,10 @@
+//package Book03_ObjectOrientatedProgramming.WorkingWithRelatedClasses.Interfaces;
+
+/*
+public interface Ball {
+
+
+Will learn in Book 3 - Chapter 5.
+
+}
+/*

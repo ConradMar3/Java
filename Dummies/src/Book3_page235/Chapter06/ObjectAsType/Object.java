@@ -4,7 +4,7 @@ public class Object {
     private java.lang.Object lastName;
 
     public static void main(String[] args) {
-        Object emp = new Employee();
+        Employee emp = new Employee();
         ((Employee)emp).setLastName("Smith");
     }
 

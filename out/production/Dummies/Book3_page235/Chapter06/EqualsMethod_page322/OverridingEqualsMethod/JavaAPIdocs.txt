@@ -1,0 +1,78 @@
+/*
+You can override the equals' method so that objects can be compared based on
+their values. At the surface, you might think this is easy to do. You could be
+tempted to write the equals' method for the Employee class like this:
+
+// warning -- there are several errors in this code!
+    public boolean equals(Employee emp){
+        if (this.getLastName().equals(emp.getLastName())
+        && this.getFirstName().equals(emp.getFirstName()))
+
+    return true;
+        else
+    return false;
+}
+*/
+
+/*
+The basic problem with this code — and the challenge of coding a good equals
+method — is that the parameter passed to the equals' method must be an Object,
+not an Employee.
+
+Java API documentation says that whenever you override the
+equals' method, you must ensure that the equals' method meets five specific conditions.
+
+1. It is reflexive. For any non-null reference value x, x.equals(x) should return true.
+2. It is symmetric. For any non-null reference values x and y, x.equals(y)
+   should return true if — and only if — y.equals(x) returns true.
+3. It is transitive. For any non-null reference values x, y, and z, if x.equals(y)
+   returns true and y.equals(z) returns true, x.equals(z) should return true.
+4. It is consistent. For any non-null reference values x and y, multiple invocations of x.equals(y)
+   consistently return true or consistently return false,
+   provided that no information used in equals comparisons on the objects is modified.
+5. For any non-null reference value x, x.equals(null) should return false.
+
+NOTE: 4 -> The consistency rule basically means that you return consistent results.
+           As long as you don’t throw a call to Math.random into the comparison,
+           that shouldn't be a problem.
+*/
+
+/*
+Explained:
+
+1. Test the reflexive rule:
+
+       if (this == obj)
+        return true;
+
+   In other words, if someone is silly enough to see whether an object is equal to
+   itself, it returns true.
+
+2. Test the non-null rule:
+
+        if (this == null)
+         return false;
+
+   Null isn’t equal to anything.
+
+3. Test that obj is of the same type as this:
+
+        if (this.getClass() != obj.getClass())
+         return false;
+
+    The two objects can’t possibly be the same if they aren’t of the same type. (It
+    may not be apparent at first, but this test is required to fulfill the symmetry
+    rule — that if x equals y, y must also equal x.)
+
+4. Cast obj to a variable of your class; then compare the fields you want to
+   base the return value on, and return the result:
+
+        Employee emp = (Employee) obj;
+        return this.lastName.equals(emp.getLastName())
+         && this.firstname.equals(emp.getFirstName());
+
+     Notice that the field comparisons for the String values use the equals' method
+     rather than ==. This is because you can’t trust == to compare strings. If you
+     need to compare primitive types, you can use ==. But you should use equals
+     to compare strings and any other reference types.
+*/

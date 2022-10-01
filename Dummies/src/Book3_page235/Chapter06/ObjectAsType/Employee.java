@@ -11,6 +11,9 @@ public class Employee extends Person {
 
     public void changeName(String robert) {
     }
+
+    public void setLastName(String smith) {
+    }
     /* If the Employee5 class has a method named
        setLastName, the following code doesn't work:
 
