@@ -5,135 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/CreatingArrays_page394/UsingAbstractClasses/BaseBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/CreatingArrays_page394/UsingAbstractClasses/SoftBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter6_BulkDataOperations/BasicBulkData_page464/Spell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter6_BulkDataOperations/StreamInterface_page467/Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_CountDownApp_page483/CountDownApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_CountDownApp_page483/CountDownClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_CountDownApp_page483/LaunchEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_CountDownApp_page483/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_ExtendingThreads_page478/CountDownApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_ExtendingThreads_page478/CountDownClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_ImplementingRunnableInterface_page480/CountDownClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_ImplementingRunnableInterface_page480/LaunchEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_ImplementingRunnableInterface_page480/RunnableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_ImplementingRunnableInterface_page480/ThreadBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_RunabbleClass_page481/CountDownApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_RunabbleClass_page481/LaunchEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_RunabbleClass_page481/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_RunnableInterface_page480/CountDownApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_RunnableInterface_page480/CountDownClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_RunnableInterface_page480/LaunchEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_RunnableInterface_page480/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_RunnableInterface_page480/RunnableBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_RunnableInterface_page480/RunnableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter01_ThreadsThatWorkTogether_page486/CoordinatedCountDownApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_RegularExpressions_page506/RegulareEpressionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_RegularExpressions_page506/BasicCharacterMatching.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/ExtractingCharachtersFromStrings_page381/CountingVowels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/ExtractingSubstrings_page382/MarkVowels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/LengthOfString_380/StringLength.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/ReplacingPartsOfString_page386/ReplacingPartsOfString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/ReviewingStrings_page376/ImmutablePattern_page377" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/ReviewingStrings_page376/Strings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/SimpleStringMods_page380/StringMods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/SplittingStrings_page384/ListWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/SplittingStrings_page384/SplitExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/UsingStringBuilderAndBuffer_page387/CreatingStringBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/UsingStringBuilderAndBuffer_page387/StringBuilderApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/UsingStringBuilderAndBuffer_page387/StringBuilderMethods.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/UsingStringBuilderAndBuffer_page387/StringConcatInefficient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter01/UsingStringClass_page378/StringClassMethods.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/ArraysWithMethods_page401/GetDaysOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/ArraysWithMethods_page401/GetDaysOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/Chess_page408/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/Chess_page408/Chess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/Chess_page408/Moves.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/Chess_page408/Moves.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/Chess_page408/Pos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/Chess_page408/Pos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/Chess_page408/ShowKnightMoves.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/Chess_page408/ShowKnightMoves.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/CopyingAnArray_page417/CopyCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/CopyingAnArray_page417/CopyCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/CreatingArrays_page394/Arrays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/CreatingArrays_page394/Arrays.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/CreatingArrays_page394/UsingAbstractClasses/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/CreatingArrays_page394/UsingAbstractClasses/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/CreatingArrays_page394/UsingAbstractClasses/BallFactoryInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/CreatingArrays_page394/UsingAbstractClasses/BallFactoryInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/CreatingArrays_page394/UsingAbstractClasses/BaseBall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/EnhancedForLoop_page400/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/EnhancedForLoop_page400/Days.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/InitializingAnArray_page395/DaysOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/InitializingAnArray_page395/DaysOfTheWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/JaggedArrays_page405/JaggedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/JaggedArrays_page405/JaggedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/SearchingAnArray_page419/SearchingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/SearchingAnArray_page419/SearchingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/SolvingHomeworkProblems_page397/BoboAndTheLockers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/SolvingHomeworkProblems_page397/BoboAndTheLockers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/SortingArrays_page419/SortingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/SortingArrays_page419/SortingArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/ThreeDimensionalArrays_page407/Three-dimensional-array.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/ThreeDimensionalArrays_page407/Three-dimensional-array.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/TwoDimensionalArrays_page401/Example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/TwoDimensionalArrays_page401/Example.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/TwoDimensionalArrays_page401/Two-DimensionalArrays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/TwoDimensionalArrays_page401/Two-DimensionalArrays.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter02/UsingForLoopsWithArrays_page396/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/UsingForLoopsWithArrays_page396/Players.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter03/AccessingElements_page429/Signs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter03/AccessingElements_page429/Signs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter03/AddingArrayElements_page428/Signs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter03/AddingArrayElements_page428/Signs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter03/CreatingArrayListClass_page427/Signs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter03/CreatingArrayListClass_page427/Signs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter03/Iterator_page430/Signs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter03/Iterator_page430/Signs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter03/PrintingArrayList_pag430/Signs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter03/PrintingArrayList_pag430/Signs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter03/RemovingElements_page434/Signs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter03/RemovingElements_page434/Signs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter03/UpdatingElements_page432/Signs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter03/UpdatingElements_page432/Signs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter04/AddingItemsToLinkedList_page443/Officers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter04/AddingItemsToLinkedList_page443/Officers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter04/CreatingLinkedList_page442/Officers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter04/CreatingLinkedList_page442/Officers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter04/RemovingLinkedListItems_page447/RemovingOfficers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter04/RemovingLinkedListItems_page447/RemovingOfficers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter04/UpdatingLinkedLists_page446/OfficersUpdating.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter04/UpdatingLinkedLists_page446/OfficersUpdating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/CreatingGenericClass_page451/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/CreatingGenericClass_page451/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/CreatingGenericClass_page451/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/CreatingGenericClass_page451/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/DiamondOperator_page462/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/DiamondOperator_page462/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/GenericQueueClass_page458/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/GenericQueueClass_page458/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/GenericQueueClass_page458/GenQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/GenericQueueClass_page458/GenQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/GenericQueueClass_page458/GenQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/GenericQueueClass_page458/GenQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/GenericQueueClass_page458/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/GenericQueueClass_page458/HourlyEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/GenericStackClass_page453/GenStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/GenericStackClass_page453/GenStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/GenericStackClass_page453/GenStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/GenericStackClass_page453/GenStackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/WhyGenerics_page450/Employee1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/WhyGenerics_page450/Employee1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/WhyGenerics_page450/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/WhyGenerics_page450/Generics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Book04_StringsArraysCollections/Chapter05_CreatingGenericCollectionClasses/WildcardTypeParams_page457/WildcardExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter05_CreatingGenericCollectionClasses/WildcardTypeParams_page457/WildcardExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book3_page235/Chapter06/ObjectAsType/Object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1_page45/Chapter01/ProgrammingBasics/ImportantFeatures/page13/TypeChecking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1_page45/Chapter01/ProgrammingBasics/JavaVersusOtherLanguages/page12/HelloWorldApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1_page45/Chapter02/JavaCMDline/page26/HelloAppCompile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book1_page45/Chapter02/JavaCMDline/page26/RunningJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter01/Blocks/Blocks_page53.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter01/CaseApp_page50.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter01/HelloApp_page46.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter01/ObjectOrientatedProgramming/CreatingObjectFromClass_page59.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter02_page62.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter01/ObjectOrientatedProgramming/HelloApp2/Greeter_page61.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter01/ObjectOrientatedProgramming/HelloApp2/HelloApp2_page60.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter01/Staments/DeclarationStatement_page51.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter01/Staments/ExpressionStatement_page51.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/ArithmeticOperatorIntAndDouble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/CombiningOperators/CombiningOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/BooleanType/BooleanType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/BoxingAndUnboxing/BoxingAndUnboxing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/ConvertingAndCastingNumericData/TypeCasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Enum/EnumTest$CardSuit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Enum/EnumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/EscapeSequencesForCharacterConstants.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/InputJOptionClass/DialogApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/PrimitiveDataTypes/FloatingPointTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/PrimitiveDataTypes/IntegerTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/PrimitiveDataTypes/PrimitiveDataType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/ReferenceTypes/Ball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/ReferenceTypes/ReferenceTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/ScannerClass/ScannerApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/ShadowingVariables/ShadowingVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Strings/CombiningStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Strings/ConvertingStringsToPrimitives.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Strings/DeclaringStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Strings/InitializingVariables/FinalVariables_Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Strings/InitializingVariables/TestApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Strings/InitializingVariables/VarsWithAssignStatements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Strings/InitializingVariables/VarsWithInitializers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/SystemOutAndSystemError/SystemOut.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/TheCharType/CharType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/UnderstandingScope/ScopeForClassAndLocalVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Variables/DeclaringClassVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Variables/DeclaringInstanceVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Variables/DeclaringLocalVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Variables/DeclaringTwoOrMoreVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book2_page65/Chapter03/ArithmeticOperators/VariablesAndDataTypes/Variables/DeclaringVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_RegularExpressions_page506/RegulareEpressionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_RegularExpressions_page506/RegularExpressionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book5_page475/Chapter02_RegularExpressions_page506/RegulareEpressionsTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +75,20 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RegulareEpressionsTest">
+  <component name="RunManager" selected="Application.BasicCharacterMatching">
+    <configuration name="BasicCharacterMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter02_RegularExpressions_page506.BasicCharacterMatching" />
+      <module name="Dummies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book5_page475.Chapter02_RegularExpressions_page506.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CombiningOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book2_page65.Chapter03.ArithmeticOperators.CombiningOperators.CombiningOperators" />
       <module name="Dummies" />
@@ -258,11 +146,13 @@
       <item itemvalue="Application.HelloWorldApp" />
       <item itemvalue="Application.TypeChecking" />
       <item itemvalue="Application.HelloApp2_page60" />
+      <item itemvalue="Application.BasicCharacterMatching" />
       <item itemvalue="Application.RegulareEpressionsTest" />
       <item itemvalue="Application.CombiningOperators" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicCharacterMatching" />
         <item itemvalue="Application.RegulareEpressionsTest" />
         <item itemvalue="Application.CombiningOperators" />
       </list>
@@ -279,7 +169,7 @@
       <workItem from="1664303305661" duration="714000" />
       <workItem from="1664447864665" duration="1462000" />
       <workItem from="1664526321126" duration="3808000" />
-      <workItem from="1664593930472" duration="3679000" />
+      <workItem from="1664593930472" duration="6637000" />
     </task>
     <servers />
   </component>

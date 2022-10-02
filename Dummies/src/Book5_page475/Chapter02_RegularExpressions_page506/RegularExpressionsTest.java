@@ -3,7 +3,7 @@ package Book5_page475.Chapter02_RegularExpressions_page506;
 import java.util.regex.*;
 import java.util.Scanner;
 
-public final class RegulareEpressionsTest {
+public final class RegularExpressionsTest {
     static String r, s;
     static Pattern pattern;
     static Matcher matcher;
