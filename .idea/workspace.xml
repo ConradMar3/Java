@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_BasicCharachterMatching_page509/MatchingSingleCharacters.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_BasicCharachterMatching_page509/UsingPreDefinedCharacters.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_BasicCharachterMatching_page509/d = Digit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_BasicCharachterMatching_page509/s = whitespace.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_BasicCharachterMatching_page509/w = AnyWord.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_MatchingMultipleCharacters_page514/Quantifiers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingEscape_page516/UsingEscape.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingNegation_page514/UsingNegation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingRanges_page513/UsingRanges.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book5_page475/CustomCharcterClasses_page532/CustomCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_CustomCharcterClasses_page532/CustomCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book5_page475/Chapter02_RegularExpressions_page506/RegularEpressionsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_CustomCharcterClasses_page532/CustomCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_CustomCharcterClasses_page512/CustomCharacters.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,7 @@
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book2_page65\Chapter03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book5_page475\Chapter02_UsingNegation_page514" />
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book1\Chapter01\JavaVersusOtherLanguages\page12" />
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book1\Chapter01\ImportantFeatures\page13" />
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java" />
@@ -191,7 +190,7 @@
       <workItem from="1664593930472" duration="6637000" />
       <workItem from="1664695561405" duration="4343000" />
       <workItem from="1664729441329" duration="2033000" />
-      <workItem from="1664874281486" duration="1176000" />
+      <workItem from="1664874281486" duration="2734000" />
     </task>
     <servers />
   </component>
