@@ -1,0 +1,5 @@
+Enter regex: abc
+Enter string: abc
+Match.
+Enter string: abcd
+Does not match

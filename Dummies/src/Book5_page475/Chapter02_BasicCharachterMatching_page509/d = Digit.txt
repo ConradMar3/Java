@@ -1,0 +1,21 @@
+The \d class represents a digit and is often used in regex patterns to validate input data.
+Here’s a simple regex pattern that validates a U.S. Social Security number,
+which must be entered in the form xxx-xx-xxxx:
+
+Enter regex: \d\d\d-\d\d-\d\d\d\d
+Enter string: 779-54-3994
+Match.
+Enter string: 550-403-004
+Does not match.
+
+Note that the \d class has a counterpart:
+\D. The \D class matches any character that is not a digit.
+Here’s a first attempt at a regex for validating droid names:
+
+Enter regex: \D\d-\D\d
+Enter string: R2-D2
+Match.
+Enter string: C2-D0
+Match.
+Enter string: C-3PO
+Does not match.
