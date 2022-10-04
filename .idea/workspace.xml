@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_MatchingMultipleCharacters_page514/Quantifiers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingEscape_page516/UsingEscape.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingNegation_page514/UsingNegation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingRanges_page513/UsingRanges.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingParenthesesGroupingCharacters_page516/ParenthesesToGroupCharachters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingThePipeSymbol_page518/PipeSymbol.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_CustomCharcterClasses_page532/CustomCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_CustomCharcterClasses_page512/CustomCharacters.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +187,7 @@
       <workItem from="1664593930472" duration="6637000" />
       <workItem from="1664695561405" duration="4343000" />
       <workItem from="1664729441329" duration="2033000" />
-      <workItem from="1664874281486" duration="2734000" />
+      <workItem from="1664874281486" duration="3374000" />
     </task>
     <servers />
   </component>

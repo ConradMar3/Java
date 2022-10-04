@@ -1,0 +1,27 @@
+The vertical bar (|) symbol defines an or operation, which lets you create patterns
+that accept any of two or more variations. Here’s an improvement of the pattern
+for validating droid names:
+
+Enter regex: (\w\d-\w\d)|(\w-\d\w\w)
+Enter string: r2-d2
+Match.
+Enter string: c-3po
+Match.
+
+The | character indicates that either the group on the left or the group on the right
+can be used to match the string. The group on the left matches a word character,
+a digit, a hyphen, a word character, and another digit. The group on the right
+matches a word character, a hyphen, a digit, and two word characters.
+
+You may want to use an additional set of parentheses around the entire part of the
+pattern that the | applies to. Then you can add pattern elements before or after
+the | groups. What if you want to let a user enter the area code for a phone number
+with or without parentheses? Here’s a regex pattern that does the trick:
+
+Enter regex: ((\d{3} )|(\(\d{3}\) ))?\d{3}-\d{4}
+Enter string: (559) 555-1234
+Match.
+Enter string: 559 555-1234
+Match.
+Enter string: 555-1234
+Match.
