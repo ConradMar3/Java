@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_WritingOwnSorting_page530/Partition/partition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_WritingOwnSorting_page530/SortingProgram/QuickSortApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_WritingOwnSorting_page530/UsingTheSortMethod/sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_WritingOwnSorting_page530/SortingProgram/QuickSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_WritingOwnSorting_page530/SortingProgram/QuickSortApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +207,7 @@
       <workItem from="1664879912893" duration="253000" />
       <workItem from="1664886863967" duration="19000" />
       <workItem from="1664887023169" duration="845000" />
-      <workItem from="1664888932663" duration="2891000" />
+      <workItem from="1664888932663" duration="3059000" />
     </task>
     <servers />
   </component>

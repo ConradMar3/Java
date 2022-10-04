@@ -54,9 +54,16 @@ public class QuickSortApp {
         return j;
     }
 
-    public static void swap(int i, int j) {
+   /* public static void swap(int i, int j) {
         int temp = a[i];
         a[i] = a[j];
         a[j] = temp;
+    } */
+
+    // Improve performance:
+    public static void swap(int i, int j) {
+        a[i] ^= a[j];
+        a[j] ^= a[i];
+        a[i] ^= a[j];
     }
 }
