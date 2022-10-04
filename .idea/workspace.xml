@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingParenthesesGroupingCharacters_page516/ParenthesesToGroupCharachters.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingThePipeSymbol_page518/PipeSymbol.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_PatternAndMatcher_page521/PatternMatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingRegularExpressions_page519/StringProblem/StringRegexProblem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingRegularExpressions_page520/validDroidName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,7 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RegularExpressionsTest">
+  <component name="RunManager" selected="Application.validDroidName">
     <configuration name="BasicCharacterMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter02_RegularExpressions_page506.BasicCharacterMatching" />
       <module name="Dummies" />
@@ -155,17 +156,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="validDroidName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter02_UsingRegularExpressions_page520.validDroidName" />
+      <module name="Dummies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book5_page475.Chapter02_UsingRegularExpressions_page520.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.HelloWorldApp" />
       <item itemvalue="Application.TypeChecking" />
       <item itemvalue="Application.HelloApp2_page60" />
       <item itemvalue="Application.RegularExpressionsTest" />
+      <item itemvalue="Application.validDroidName" />
       <item itemvalue="Application.BasicCharacterMatching" />
       <item itemvalue="Application.RegulareEpressionsTest" />
       <item itemvalue="Application.CombiningOperators" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.validDroidName" />
         <item itemvalue="Application.RegularExpressionsTest" />
         <item itemvalue="Application.BasicCharacterMatching" />
         <item itemvalue="Application.RegulareEpressionsTest" />
@@ -187,7 +203,7 @@
       <workItem from="1664593930472" duration="6637000" />
       <workItem from="1664695561405" duration="4343000" />
       <workItem from="1664729441329" duration="2033000" />
-      <workItem from="1664874281486" duration="3374000" />
+      <workItem from="1664874281486" duration="5033000" />
     </task>
     <servers />
   </component>

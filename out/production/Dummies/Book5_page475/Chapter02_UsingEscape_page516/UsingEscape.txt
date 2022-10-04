@@ -1,0 +1,12 @@
+In regular expressions, certain characters have special meaning. What if you want
+to search for one of those special characters? In that case, you escape the character
+by preceding it with a backslash. Here’s an example:
+
+Enter regex: \(\d{3}\) \d{3}-\d{4}
+Enter string: (559) 555-1234
+Match.
+Enter string: 559 555-1234
+Does not match.
+
+Here \( represents a left parenthesis, and \) represents a right parenthesis. Without the backslashes,
+the regular expression treats the parenthesis as a grouping element.

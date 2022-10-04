@@ -1,0 +1,21 @@
+Character Classes:
+
+Regex   Matches:
+.       Any character
+\d      Any digit (0–9)
+\D      Any non-digit (anything other than 0–9)
+\s      Any white-space character (space, tab, new line, return, or backspace)
+\S      Any character other than a white-space character
+\w      Any word character (a–z, A–Z, 0–9, or an underscore)
+\W      Any character other than a word character
+
+
+The period is like a wildcard that matches any character, as in this example:
+
+Enter regex: c.t
+Enter string: cat
+Match.
+Enter string: cot
+Match.
+Enter string: cart
+Does not match.
