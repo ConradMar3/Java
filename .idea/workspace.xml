@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_UsingRecursion_page523/CalculatingClassicalFactorial/ClassicalFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_UsingRecursion_page523/NonRecursiveFactorial_page524/NonRecursiveFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_UsingRecursion_page523/RecursiveSolution_page524/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_DisplayingDirectories_page526/DirList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book5_page475/Chapter02_UsingRegularExpressions_page519/UnderstandingTheStringProblem/StringRegexProblem.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +75,13 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NonRecursiveFactorial">
-    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.CreatingGenericClass_page451.ArrayList" />
+  <component name="RunManager" selected="Application.DirList">
+    <configuration name="ClassicalFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter03_UsingRecursion_page523.CalculatingClassicalFactorial.ClassicalFactorial" />
       <module name="Dummies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.CreatingGenericClass_page451.*" />
+          <option name="PATTERN" value="Book5_page475.Chapter03_UsingRecursion_page523.CalculatingClassicalFactorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassicalFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter03_UsingRecursion_page523.CalculatingClassicalFactorial.ClassicalFactorial" />
+    <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter03_DisplayingDirectories_page526.DirList" />
       <module name="Dummies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter03_UsingRecursion_page523.CalculatingClassicalFactorial.*" />
+          <option name="PATTERN" value="Book5_page475.Chapter03_DisplayingDirectories_page526.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,18 +173,18 @@
       <item itemvalue="Application.TypeChecking" />
       <item itemvalue="Application.HelloApp2_page60" />
       <item itemvalue="Application.ClassicalFactorial" />
+      <item itemvalue="Application.DirList" />
       <item itemvalue="Application.NonRecursiveFactorial" />
-      <item itemvalue="Application.ArrayList" />
       <item itemvalue="Application.GenQueueTest" />
       <item itemvalue="Application.GenStackTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DirList" />
         <item itemvalue="Application.NonRecursiveFactorial" />
         <item itemvalue="Application.ClassicalFactorial" />
         <item itemvalue="Application.GenQueueTest" />
         <item itemvalue="Application.GenStackTest" />
-        <item itemvalue="Application.ArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +207,7 @@
       <workItem from="1664879912893" duration="253000" />
       <workItem from="1664886863967" duration="19000" />
       <workItem from="1664887023169" duration="845000" />
-      <workItem from="1664888932663" duration="849000" />
+      <workItem from="1664888932663" duration="1508000" />
     </task>
     <servers />
   </component>
