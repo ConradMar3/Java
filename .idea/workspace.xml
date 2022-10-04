@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_WritingOwnSorting_page530/SortingProgram/QuickSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_WritingOwnSorting_page530/SortingProgram/QuickSortApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_DatesAndTimes_page539/PickingRightDateAndTime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_NowMethodCreatingDateTime_page542/TimeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_UsingParseToCreateDateTime_page544/ParseDateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ConradMaré/Desktop/Java-Dummies/Java/Dummies/src/Book5_page475",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ConradMaré/Desktop/Java-Dummies/Java/Dummies/src/Book5_page475&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book5_page475" />
@@ -75,39 +78,13 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSortApp">
-    <configuration name="ClassicalFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter03_UsingRecursion_page523.CalculatingClassicalFactorial.ClassicalFactorial" />
-      <module name="Dummies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter03_UsingRecursion_page523.CalculatingClassicalFactorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ParseDateTime">
     <configuration name="DirList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter03_DisplayingDirectories_page526.DirList" />
       <module name="Dummies" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Book5_page475.Chapter03_DisplayingDirectories_page526.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.GenericQueueClass_page458.GenQueueTest" />
-      <module name="Dummies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.GenericQueueClass_page458.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +123,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParseDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_UsingParseToCreateDateTime_page544.ParseDateTime" />
+      <module name="Dummies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book5_page475.Chapter04_UsingParseToCreateDateTime_page544.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuickSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter03_WritingOwnSorting_page530.SortingProgram.QuickSortApp" />
       <module name="Dummies" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Book5_page475.Chapter03_WritingOwnSorting_page530.SortingProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_NowMethodCreatingDateTime_page542.TimeTester" />
+      <module name="Dummies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book5_page475.Chapter04_NowMethodCreatingDateTime_page542.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,19 +175,19 @@
       <item itemvalue="Application.HelloWorldApp" />
       <item itemvalue="Application.TypeChecking" />
       <item itemvalue="Application.HelloApp2_page60" />
-      <item itemvalue="Application.ClassicalFactorial" />
+      <item itemvalue="Application.ParseDateTime" />
+      <item itemvalue="Application.TimeTester" />
       <item itemvalue="Application.DirList" />
       <item itemvalue="Application.NonRecursiveFactorial" />
       <item itemvalue="Application.QuickSortApp" />
-      <item itemvalue="Application.GenQueueTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParseDateTime" />
+        <item itemvalue="Application.TimeTester" />
         <item itemvalue="Application.QuickSortApp" />
         <item itemvalue="Application.DirList" />
         <item itemvalue="Application.NonRecursiveFactorial" />
-        <item itemvalue="Application.ClassicalFactorial" />
-        <item itemvalue="Application.GenQueueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +210,8 @@
       <workItem from="1664879912893" duration="253000" />
       <workItem from="1664886863967" duration="19000" />
       <workItem from="1664887023169" duration="845000" />
-      <workItem from="1664888932663" duration="3059000" />
+      <workItem from="1664888932663" duration="3760000" />
+      <workItem from="1664900584271" duration="2268000" />
     </task>
     <servers />
   </component>
