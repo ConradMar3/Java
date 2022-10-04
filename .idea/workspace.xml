@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_PatternAndMatcher_page521/PatternMatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingRegularExpressions_page519/StringProblem/StringRegexProblem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter02_UsingRegularExpressions_page520/validDroidName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_UsingRecursion_page523/CalculatingClassicalFactorial/ClassicalFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_UsingRecursion_page523/NonRecursiveFactorial_page524/NonRecursiveFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter03_UsingRecursion_page523/RecursiveSolution_page524/Factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book5_page475/Chapter02_UsingRegularExpressions_page519/UnderstandingTheStringProblem/StringRegexProblem.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,8 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -76,13 +78,13 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.validDroidName">
-    <configuration name="BasicCharacterMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter02_RegularExpressions_page506.BasicCharacterMatching" />
+  <component name="RunManager" selected="Application.NonRecursiveFactorial">
+    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.CreatingGenericClass_page451.ArrayList" />
       <module name="Dummies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter02_RegularExpressions_page506.*" />
+          <option name="PATTERN" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.CreatingGenericClass_page451.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +92,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombiningOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book2_page65.Chapter03.ArithmeticOperators.CombiningOperators.CombiningOperators" />
+    <configuration name="ClassicalFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter03_UsingRecursion_page523.CalculatingClassicalFactorial.ClassicalFactorial" />
       <module name="Dummies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book2_page65.Chapter03.ArithmeticOperators.CombiningOperators.*" />
+          <option name="PATTERN" value="Book5_page475.Chapter03_UsingRecursion_page523.CalculatingClassicalFactorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.GenericQueueClass_page458.GenQueueTest" />
+      <module name="Dummies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.GenericQueueClass_page458.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.GenericStackClass_page453.GenStackTest" />
+      <module name="Dummies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book4_page375.Chapter05_CreatingGenericCollectionClasses.GenericStackClass_page453.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,25 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularExpressionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter02_RegularExpressions_page506.RegularExpressionsTest" />
+    <configuration name="NonRecursiveFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter03_UsingRecursion_page523.NonRecursiveFactorial_page524.NonRecursiveFactorial" />
       <module name="Dummies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter02_RegularExpressions_page506.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegulareEpressionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter02_RegularExpressions_page506.RegulareEpressionsTest" />
-      <module name="Dummies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter02_RegularExpressions_page506.*" />
+          <option name="PATTERN" value="Book5_page475.Chapter03_UsingRecursion_page523.NonRecursiveFactorial_page524.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,36 +171,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="validDroidName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter02_UsingRegularExpressions_page520.validDroidName" />
-      <module name="Dummies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter02_UsingRegularExpressions_page520.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.HelloWorldApp" />
       <item itemvalue="Application.TypeChecking" />
       <item itemvalue="Application.HelloApp2_page60" />
-      <item itemvalue="Application.RegularExpressionsTest" />
-      <item itemvalue="Application.validDroidName" />
-      <item itemvalue="Application.BasicCharacterMatching" />
-      <item itemvalue="Application.RegulareEpressionsTest" />
-      <item itemvalue="Application.CombiningOperators" />
+      <item itemvalue="Application.ClassicalFactorial" />
+      <item itemvalue="Application.NonRecursiveFactorial" />
+      <item itemvalue="Application.ArrayList" />
+      <item itemvalue="Application.GenQueueTest" />
+      <item itemvalue="Application.GenStackTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.validDroidName" />
-        <item itemvalue="Application.RegularExpressionsTest" />
-        <item itemvalue="Application.BasicCharacterMatching" />
-        <item itemvalue="Application.RegulareEpressionsTest" />
-        <item itemvalue="Application.CombiningOperators" />
+        <item itemvalue="Application.NonRecursiveFactorial" />
+        <item itemvalue="Application.ClassicalFactorial" />
+        <item itemvalue="Application.GenQueueTest" />
+        <item itemvalue="Application.GenStackTest" />
+        <item itemvalue="Application.ArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +205,12 @@
       <workItem from="1664593930472" duration="6637000" />
       <workItem from="1664695561405" duration="4343000" />
       <workItem from="1664729441329" duration="2033000" />
-      <workItem from="1664874281486" duration="5033000" />
+      <workItem from="1664874281486" duration="5335000" />
+      <workItem from="1664879819082" duration="58000" />
+      <workItem from="1664879912893" duration="253000" />
+      <workItem from="1664886863967" duration="19000" />
+      <workItem from="1664887023169" duration="845000" />
+      <workItem from="1664888932663" duration="849000" />
     </task>
     <servers />
   </component>
