@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Dummies" options="--add-exports jdk.scripting.nashorn/jdk.nashorn.internal.objects=ALL-UNNAMED --add-exports java.xml/com.sun.org.apache.xalan.internal.xsltc.util=ALL-UNNAMED" />
+      <module name="Dummies" options="--add-exports jdk.scripting.nashorn/jdk.nashorn.internal.objects=ALL-UNNAMED --add-exports java.xml/com.sun.org.apache.xalan.internal.xsltc.util=ALL-UNNAMED --add-exports jdk.internal.le/jdk.internal.org.jline.utils=ALL-UNNAMED" />
     </option>
   </component>
 </project>
