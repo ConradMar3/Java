@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_DateAndTimeMethods_page546/Date-Time.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_UsingMontEmuniration_page547/CanCreateLikeThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_UsingofMethod_page545/ofMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_ZoneIdMethod_page547/ZoneId.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_LookingCloserAtLocalDate_page549/MethodsOfLocalDateClass.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_ZoneOffset_page548/ZoneOffsetClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +77,7 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CanCreateLikeThis">
+  <component name="RunManager" selected="Application.ZoneOffsetClass">
     <configuration name="CanCreateLikeThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_UsingMontEmuniration_page547.CanCreateLikeThis" />
       <module name="Dummies" />
@@ -125,19 +122,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter03_WritingOwnSorting_page530.SortingProgram.QuickSortApp" />
-      <module name="Dummies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter03_WritingOwnSorting_page530.SortingProgram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TimeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_NowMethodCreatingDateTime_page542.TimeTester" />
       <module name="Dummies" />
@@ -160,6 +144,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZoneOffsetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_ZoneOffset_page548.ZoneOffsetClass" />
+      <module name="Dummies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book5_page475.Chapter04_ZoneOffset_page548.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ofMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_UsingofMethod_page545.ofMethod" />
       <module name="Dummies" />
@@ -177,19 +174,19 @@
       <item itemvalue="Application.HelloWorldApp" />
       <item itemvalue="Application.TypeChecking" />
       <item itemvalue="Application.HelloApp2_page60" />
+      <item itemvalue="Application.ZoneOffsetClass" />
       <item itemvalue="Application.CanCreateLikeThis" />
       <item itemvalue="Application.ParseDateTime" />
       <item itemvalue="Application.TimeTester" />
       <item itemvalue="Application.ofMethod" />
-      <item itemvalue="Application.QuickSortApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZoneOffsetClass" />
         <item itemvalue="Application.CanCreateLikeThis" />
         <item itemvalue="Application.ofMethod" />
         <item itemvalue="Application.ParseDateTime" />
         <item itemvalue="Application.TimeTester" />
-        <item itemvalue="Application.QuickSortApp" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +210,8 @@
       <workItem from="1664886863967" duration="19000" />
       <workItem from="1664887023169" duration="845000" />
       <workItem from="1664888932663" duration="3760000" />
-      <workItem from="1664900584271" duration="5267000" />
+      <workItem from="1664900584271" duration="5559000" />
+      <workItem from="1664966000348" duration="934000" />
     </task>
     <servers />
   </component>

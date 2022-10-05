@@ -1,0 +1,27 @@
+Using the ZoneId class:
+
+To create a ZonedDateTime, you must first create a time zone object by using the
+ZoneId class.
+To create a time zone, you must know the standard name of the time
+zone you want to create. Unfortunately, there are more than 500 distinct zone IDs,
+and they periodically change.
+So listing them here would be impractical, but you
+can easily list them all by using this handy bit of code:
+
+for (String id : ZoneId.getAvailableZoneIds())
+System.out.println(id);
+
+This for loop will write the names of each ZoneId to the console.
+
+Once you know the name of the ZoneId you want to use, you can create it using
+ZoneId.of , then use it to create a ZonedDateTime as in this example:
+
+ZoneId z = ZoneId.of("America/Los_Angeles");
+ZonedDateTime zdate;
+zdate = ZonedDateTime.of(2014, 12, 15, 0, 0, 0, 0, z);
+
+Or, if you prefer, you can create the ZoneId directly when you create the
+ZonedDateTime:
+
+zdate = ZonedDateTime.of(2014, 12, 15, 0, 0, 0, 0,
+ZoneId.of("America/Los_Angeles"));
