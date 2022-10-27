@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter02_ExaminingEvents_page584/EventHandlerInterface.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter02_ExaminingEvents_page584/ExaminingEvents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter02_HandlingEvents_page585/JavaFX_handleEvent.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ConradMaré/Desktop/Java-Dummies/Java/Dummies/src/Book5_page475",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ConradMaré/Desktop/Java-Dummies/Java/Dummies/src/Book06_page566_javaFX/Chapter02_ExaminingEvents_page584&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Book06_page566.Chapter01_SimplejavaFX_page566" />
@@ -69,6 +70,7 @@
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book2_page65\Chapter03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book06_page566_javaFX\Chapter02_ExaminingEvents_page584" />
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book5_page475\Chapter02_UsingNegation_page514" />
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book1\Chapter01\JavaVersusOtherLanguages\page12" />
       <recent name="C:\Users\ConradMaré\Desktop\Java-Dummies\Java\Dummies\src\Book1\Chapter01\ImportantFeatures\page13" />
@@ -84,7 +86,33 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClickMe">
+  <component name="RunManager" selected="Application.AddSubtract2">
+    <configuration name="AddSubtract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.AddSubtract" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddSubtract2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.AddSubtract2" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BirthdayFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_BirthdayCalculator_page556.BirthdayFun" />
       <module name="Dummies" />
@@ -98,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculateDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_CalculatingDates_page552.CalculateDifference" />
-      <module name="Dummies" />
+    <configuration name="ClickCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.ClickCounter" />
+      <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter04_CalculatingDates_page552.*" />
+          <option name="PATTERN" value="application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,32 +145,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Book06_page566.Chapter01_SimplejavaFX_page566.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComplexCalcDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_CalculatingDates_page552.ComplexCalcDate" />
-      <module name="Dummies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter04_CalculatingDates_page552.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FormatDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_FormattingDates_page554.FormatDateTime" />
-      <module name="Dummies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter04_FormattingDates_page554.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,19 +183,19 @@
       <item itemvalue="Application.HelloWorldApp" />
       <item itemvalue="Application.TypeChecking" />
       <item itemvalue="Application.HelloApp2_page60" />
+      <item itemvalue="Application.AddSubtract2" />
+      <item itemvalue="Application.AddSubtract" />
+      <item itemvalue="Application.ClickCounter" />
       <item itemvalue="Application.BirthdayFun" />
-      <item itemvalue="Application.CalculateDifference" />
       <item itemvalue="Application.ClickMe" />
-      <item itemvalue="Application.ComplexCalcDate" />
-      <item itemvalue="Application.FormatDateTime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddSubtract2" />
+        <item itemvalue="Application.ClickCounter" />
+        <item itemvalue="Application.AddSubtract" />
         <item itemvalue="Application.ClickMe" />
         <item itemvalue="Application.BirthdayFun" />
-        <item itemvalue="Application.FormatDateTime" />
-        <item itemvalue="Application.ComplexCalcDate" />
-        <item itemvalue="Application.CalculateDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +224,10 @@
       <workItem from="1664975058915" duration="914000" />
       <workItem from="1666347228165" duration="782000" />
       <workItem from="1666366660225" duration="167000" />
+      <workItem from="1666413362164" duration="4088000" />
+      <workItem from="1666616225160" duration="107000" />
+      <workItem from="1666685012778" duration="21000" />
+      <workItem from="1666782209876" duration="10000" />
     </task>
     <servers />
   </component>
