@@ -12,7 +12,7 @@ put the brackets on the variable name rather than on the type:
 > int[] array1; // an array of int elements.
 > int array2[]; // another array of int elements.
 
-By itself, that statement doesn’t create an array; it merely declares a variable that
+By itself, that statement doesn't create an array; it merely declares a variable that
 can refer to an array. You can actually create the array in two ways:
 
 >> Use the new keyword followed by the array type, this time with the brackets

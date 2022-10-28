@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter02_ExaminingEvents_page584/EventHandlerInterface.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter02_ExaminingEvents_page584/ExaminingEvents.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter02_HandlingEvents_page585/JavaFX_handleEvent.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/ArraysWithMethods_page401/GetDaysOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/ArraysWithMethods_page401/GetDaysOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/CreatingArrays_page394/Arrays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/CreatingArrays_page394/Arrays.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/InitializingAnArray_page395/DaysOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter01/InitializingAnArray_page395/DaysOfTheWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter02/UsingForLoopsWithArrays_page396/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book4_page375/Chapter01_UsingForLoopsWithArrays_page396/Players.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book4_page375/Chapter02/ArraysWithMethods_page401/GetDaysOfWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dummies/Book4_page375/Chapter02/ArraysWithMethods_page401/GetDaysOfWeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book4_page375/Chapter02/CreatingArrays_page394/Arrays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dummies/Book4_page375/Chapter02/CreatingArrays_page394/Arrays.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book4_page375/Chapter02/InitializingAnArray_page395/DaysOfTheWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book4_page375/Chapter02/UsingForLoopsWithArrays_page396/Players.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/javaFX_V2.0" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,7 +91,7 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddSubtract2">
+  <component name="RunManager" selected="Application.Players">
     <configuration name="AddSubtract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.AddSubtract" />
       <module name="Java" />
@@ -113,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BirthdayFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_BirthdayCalculator_page556.BirthdayFun" />
+    <configuration name="Book4_page375.Chapter01.InitializingAnArray_page395.DaysOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter01.InitializingAnArray_page395.DaysOfTheWeek" />
       <module name="Dummies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book5_page475.Chapter04_BirthdayCalculator_page556.*" />
+          <option name="PATTERN" value="Book4_page375.Chapter01.InitializingAnArray_page395.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,15 +144,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClickMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book06_page566.Chapter01_SimplejavaFX_page566.ClickMe" />
+    <configuration name="DaysOfTheWeek" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter02.ArraysWithMethods_page401.GetDaysOfWeek" />
       <module name="Dummies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Book06_page566.Chapter01_SimplejavaFX_page566.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,6 +171,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Players" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter01_UsingForLoopsWithArrays_page396.Players" />
+      <module name="Dummies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book4_page375.Chapter01_UsingForLoopsWithArrays_page396.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TypeChecking" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11 (3)" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -183,19 +197,20 @@
       <item itemvalue="Application.HelloWorldApp" />
       <item itemvalue="Application.TypeChecking" />
       <item itemvalue="Application.HelloApp2_page60" />
+      <item itemvalue="Application.DaysOfTheWeek" />
+      <item itemvalue="Application.Book4_page375.Chapter01.InitializingAnArray_page395.DaysOfTheWeek" />
+      <item itemvalue="Application.Players" />
       <item itemvalue="Application.AddSubtract2" />
       <item itemvalue="Application.AddSubtract" />
       <item itemvalue="Application.ClickCounter" />
-      <item itemvalue="Application.BirthdayFun" />
-      <item itemvalue="Application.ClickMe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Players" />
+        <item itemvalue="Application.Book4_page375.Chapter01.InitializingAnArray_page395.DaysOfTheWeek" />
         <item itemvalue="Application.AddSubtract2" />
         <item itemvalue="Application.ClickCounter" />
         <item itemvalue="Application.AddSubtract" />
-        <item itemvalue="Application.ClickMe" />
-        <item itemvalue="Application.BirthdayFun" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +243,11 @@
       <workItem from="1666616225160" duration="107000" />
       <workItem from="1666685012778" duration="21000" />
       <workItem from="1666782209876" duration="10000" />
+      <workItem from="1666855433256" duration="324000" />
+      <workItem from="1666855782998" duration="607000" />
+      <workItem from="1666857966738" duration="154000" />
+      <workItem from="1666858222782" duration="4924000" />
+      <workItem from="1666877828619" duration="67000" />
     </task>
     <servers />
   </component>

@@ -12,9 +12,7 @@ public class GetDaysOfWeek {
         for (String s : strings)
             System.out.println(s);
 
-
         String[] days = getDaysOfWeek();
-
         printStringArray(days);
 
     }

@@ -1,0 +1,6 @@
+/*
+    TABLE 2-2 The EventHandler Interface:
+
+    Method                  Description
+    void handle<T event>    Called when an event occurs
+*/
