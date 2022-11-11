@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_CalculatingDates_page552/CalculateDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_CalculatingDates_page552/CalculateDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_ComparingDates_page552/isEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book5_page475/Chapter04_ComparingDates_page552/isEqual.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/src/application/AddSubtract1.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/src/application/AddSubtract1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/src/application/ClickCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/src/application/ClickCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book4_page375/Chapter02/CreatingArrays_page394/UsingAbstractClasses/Players.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
