@@ -1,0 +1,24 @@
+/*
+ Like the Stage class, the Scene class is fundamental to JavaFX programs. In
+ every JavaFX program, you use at least one instance of the Scene class to hold
+ the user-interface controls that your users will interact with as they use your
+ program.
+
+ Table 3-2 lists the more commonly used constructors and methods of the Scene
+ class:
+
+ >>> Commonly Used Constructors and Methods of the Scene class:
+     Constructor                                           Description
+
+   > Scene(Parent root)                                 -- Creates a new scene with the specified root node
+   > Scene(Parent root, double width, double height)    -- Creates a new scene with the specified root node,
+                                                           width, and height
+
+    Method                                                 Description
+
+   > double getHeight()                                -- Gets the height of the scene
+   > double getWidth()                                 -- Gets the width of the scene
+   > double getX()                                     -- Gets the horizontal position of the scene
+   > double getY()                                     -- Gets the vertical position of the screen
+   > void setRoot(Parent root)                         -- Sets the root node
+*/
