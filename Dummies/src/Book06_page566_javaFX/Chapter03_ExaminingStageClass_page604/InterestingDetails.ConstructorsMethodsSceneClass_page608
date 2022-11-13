@@ -1,0 +1,30 @@
+/*
+
+» All the Scene class constructors require that you specify the root node.
+
+   You can change the root node later by calling the setRoot method, but it’s not
+   possible to create a scene without a root node.
+
+» You might be wondering why the root node is an instance of the Parent
+  class rather than an instance of the Node class.
+
+   The Parent class is actually a subclass of the Node class, which represents
+   a node that can have child nodes.
+   There are several other subclasses of Node, which represent nodes that
+   can’t have children; those nodes can’t be used as the root node for a scene.
+
+» You can set the scene’s initial size when you create it by specifying the
+  Width and Height parameters.
+
+   If you don’t set the size, the scene will determine its own size based on its content.
+
+» You can retrieve the size of the scene via the 'getHeight' and 'getWidth' methods.
+
+   There are no corresponding set methods that let you set the height or width.
+
+» In general, the size of the scene determines the size of the stage,
+  provided that that scene is not smaller than the minimum size specified for
+  the stage or larger than the maximum size.
+
+» If the user resizes the stage, the size of the scene is resized accordingly.
+*/

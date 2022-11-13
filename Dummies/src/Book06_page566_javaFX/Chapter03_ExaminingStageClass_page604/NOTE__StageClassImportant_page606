@@ -54,4 +54,17 @@ class methods listed in Table 3-1:
  » For more information about the close method, see the section “Exit, Stage
    Right” later in this chapter.
 
- 
+ » The initModality and initStyle methods are interesting because they
+   can be called only before you call the show method.
+
+ The initModality method allows you to create a modal dialog box — that is,
+ a window that must be closed before the user can continue using other functions
+ within the program.
+
+ And the initStyle method lets you create windows that do not have
+ the usual decorations such as a title bar or Minimize, Restore, and Close
+ buttons.
+ You typically use these methods when you need to create additional
+ stages for your application beyond the primary stage. You can read more about
+ how that works later in this chapter, in the section “Creating a Dialog Box.”
+*/
