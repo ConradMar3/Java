@@ -1,0 +1,21 @@
+The \s class matches white-space characters including spaces, tabs, newlines,
+returns, and backspaces.
+This class is useful when you want to allow the user to
+separate parts of a string in various ways, as in this example.
+(Note that in the fourth line, I use the Tab key to separate abc from def.)
+
+Enter regex: ...\s...
+Enter string: abc def
+Match.
+Enter string: abc def
+Match.
+
+The \s class also has a counterpart: \S.
+
+If you want to limit white-space characters to actual spaces, use a space in the
+regex, like this:
+Enter regex: ... ...
+Enter string: abc def
+Match.
+Enter string: abc def
+Does not match.

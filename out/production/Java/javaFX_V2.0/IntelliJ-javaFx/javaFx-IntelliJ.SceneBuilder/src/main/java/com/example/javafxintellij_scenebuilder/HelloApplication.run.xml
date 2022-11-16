@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HelloApplication" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+    <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-11.0.14" />
+    <option name="MAIN_CLASS_NAME" value="com.example.javafxintellij_scenebuilder.HelloApplication" />
+    <module name="javaFx-IntelliJ.SceneBuilder" />
+    <option name="PROGRAM_PARAMETERS" value="$MODULE_DIR$" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\jafafx-intelliJ\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../FirstJavaFXProject" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,26 @@
+/*
+Object is the mother of all classes. In Java, every class ultimately inherits the Object
+class. This class provides a set of methods that is available to every Java object.
+*/
+
+/*
+Any class that doesn't have an extends clause implicitly inherits Object.
+Thus, you never have to code a class like this:
+
+"public class Product extends Object..."
+
+If a subclass has an extends clause that specifies a superclass other than Object,
+the class still inherits Object. That’s because the inheritance hierarchy eventually gets to a superclass that doesn’t
+have an extends clause, and that superclass inherits Object and passes it down to all its subclasses.
+
+Suppose you have these classes:
+
+> public class Manager extends SalariedEmployee...
+> public class SalariedEmployee extends Employee...
+> public class Employee extends Person...
+> public class Person...
+
+Here the Manager class inherits the Object class indirectly because it inherits SalariedEmployee,
+which inherits Employee, which inherits Person, which inherits Object.
+In Java, creating a class that doesn't inherit Object is not possible.
+*/

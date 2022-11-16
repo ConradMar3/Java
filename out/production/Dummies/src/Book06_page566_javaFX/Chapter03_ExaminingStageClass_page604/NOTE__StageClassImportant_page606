@@ -1,0 +1,70 @@
+/*
+The following paragraphs point out some of the ins and outs of using the Stage
+class methods listed in Table 3-1:
+
+ » For many (if not most) applications, the only three methods from
+   Table 3-1 you need to use are setScene, setTitle, and show:
+
+    • Every stage must have a scene.
+    • Every stage should have a title.
+    • There’s not much point in creating a stage if you don’t intend on showing it to the user.
+
+   The other methods in the table let you change the appearance or behavior of
+   the stage, but the defaults are acceptable in most cases.
+
+ » If you want to prevent the user from resizing the stage, use the
+   setResizable method like this:
+
+  > primaryStage.setResizable(false);
+
+  Then, the user can’t change the size of the window. (By default, the stage is
+  resizable. Thus, you don’t need to call the setResizable method unless you
+  want to make the stage non-resizable.)
+
+ » If the stage is resizable, you can set the minimum and maximum size for the window. For example:
+
+   > primaryStage.setResizable(true);
+   > primaryStage.setMinWidth(200);
+   > primaryStage.setMinHeight(200);
+   > primaryStage.setMaxWidth(600);
+   > primaryStage.setMaxHeight(600);
+
+  In this example, the user can resize the window, but the smallest allowable
+  size is 200-x-200 pixels and the largest allowable size is 600-x-600 pixels.
+
+ » If you want to display the stage in a maximized window, call setMaximized:
+
+   > primaryStage.setMaximized(true);
+
+  A maximized window still has the usual decorations (title bar,window borders,Minimize,Restore,Close buttons).
+  If you want the stage to completely take over the screen with no such decorations, use the
+  setFullScreen method instead:
+
+   > primaryStage.setFullScreen(true);
+
+  When your stage enters fullscreen mode, JavaFX displays a message advising
+  the user on how to exit fullscreen mode.
+
+ !!! NOTE:
+ » If, for some reason, you want to start your program minimized to an
+   icon, use the setIconified method:
+
+   > primaryStage.setIconified(true);
+
+ » For more information about the close method, see the section “Exit, Stage
+   Right” later in this chapter.
+
+ » The initModality and initStyle methods are interesting because they
+   can be called only before you call the show method.
+
+ The initModality method allows you to create a modal dialog box — that is,
+ a window that must be closed before the user can continue using other functions
+ within the program.
+
+ And the initStyle method lets you create windows that do not have
+ the usual decorations such as a title bar or Minimize, Restore, and Close
+ buttons.
+ You typically use these methods when you need to create additional
+ stages for your application beyond the primary stage. You can read more about
+ how that works later in this chapter, in the section “Creating a Dialog Box.”
+*/

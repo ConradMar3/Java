@@ -1,0 +1,46 @@
+You can use parentheses to create groups of characters to apply other regex
+elements to, as in this example:
+
+Using Regular
+ExpressionsCHAPTER 2 Using Regular Expressions 517
+Enter regex: (bla)+
+Enter string: bla
+Match.
+Enter string: blabla
+Match.
+Enter string: blablabla
+Match.
+Enter string: bla bla bla
+Does not match.
+
+
+Here the parentheses treat bla as a group, so the + quantifier applies to the entire
+sequence. Thus, this pattern looks for one or more occurrences of the sequence
+bla.
+Here’s an example that finds U.S. phone numbers that can have an optional area
+code:
+
+Enter regex: (\(\d{3}\)\s?)?\d{3}-\d{4}
+Enter string: 555-1234
+Match.
+Enter string: (559) 555-1234
+Match.
+Enter string: (559)555-1239
+Match.
+
+Suppose that droids named following the pattern \w\d-\w\d must have the same
+digit in the second and fifth characters. In other words, r2-d2 and b9-k9 are valid
+droid names, but r2-d4 and d3-r4 are not.
+
+Here’s an example that can validate that type of name:
+
+Enter regex: \w(\d)-\w\1
+Enter string: r2-d2
+Match.
+Enter string: d3-r4
+Does not match.
+Enter string: b9-k9
+Match.
+
+Here \1 refers to the first capture group. Thus, the last character in the string must
+be the same as the second character, which must be a digit.

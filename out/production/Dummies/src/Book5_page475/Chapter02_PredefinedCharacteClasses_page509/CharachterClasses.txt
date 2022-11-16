@@ -1,0 +1,56 @@
+TABLE 2-1 Character Classes
+>>> Regex Matches:
+. Any character
+\d Any digit (0–9)
+\D Any non-digit (anything other than 0–9)
+\s Any white-space character (space, tab, new line, return, or backspace)
+\S Any character other than a white-space character
+\w Any word character (a–z, A–Z, 0–9, or an underscore)
+\W Any character other than a word character
+
+//Example:
+ > Enter regex: c.t
+   Enter string: cat
+   Match.
+   Enter string: cot
+   Match.
+   Enter string: cart
+   Does not match.
+
+
+>>> Here’s a simple regex pattern that validates a U.S. Social Security number,
+    which must be entered in the form xxx-xx-xxxx:
+//Example:
+ > Enter regex: \d\d\d-\d\d-\d\d\d\d
+   Enter string: 779-54-3994
+   Match.
+   Enter string: 550-403-004
+   Does not match
+
+
+>>> The \s class matches white-space characters including spaces, tabs, newlines,
+    returns, and backspaces. This class is useful when you want to allow the user to
+    separate parts of a string in various ways, as in this example. (Note that in the
+    fourth line, I use the Tab key to separate abc from def.):
+//Example:
+ > Enter regex: ...\s...
+   Enter string: abc def
+   Match.
+   Enter string: abc def
+   Match.
+
+>>> f you want to limit white-space characters to actual spaces, use a space in the
+    regex, like this:
+    > Enter regex: ... ...
+      Enter string: abc def
+
+>>> The last set of predefined classes is \w and \W. The \w class identifies any character
+    that’s normally used in words, including uppercase and lowercase letters, digits,
+    and underscores. An example shows how all that looks:
+    > Enter regex: \w\w\w\W\w\w\w
+      Enter string: abc def
+      Match.
+      Enter string: 123 456
+      Match.
+      Enter string: 123_456
+      Does not match

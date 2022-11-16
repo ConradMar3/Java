@@ -1,0 +1,66 @@
+/*
+The Stage class comes equipped with many methods that let you manipulate the
+appearance and behavior of a stage. Table 3-1 lists the ones you’re most likely
+to use:
+
+>> Commonly Used Methods of the Stage Class:
+    Method                                      Description
+ 1.  void close()                                Closes the stage.
+
+ 2.  void initModality(Modality modality)        Sets the modality of the stage. This method must be
+                                                called before the show method is called. The modality
+                                                can be one of the following:
+                                                Modality.NONE
+                                                Modality.APPLICATION_MODAL
+                                                Modality.WINDOW_MODAL
+
+ 3.  void initStyle(StageStyle style)            Sets the style for the stage. This method must be called
+                                                before the show method is called. The style can be one
+                                                of the following:
+                                                StageStyle.DECORATED
+                                                StageStyle.UNDECORATED
+                                                StageStyle.TRANSPARENT
+                                                StageStyle.UNIFIED
+                                                StageStyle.UTILITY
+
+ 4.  void getMaxHeight(double maxheight)         Gets the maximum height for the stage.
+
+ 5.  void getMaxWidth(double maxwidth)           Gets the maximum width for the stage.
+
+ 6.  void getMinHeight(double maxheight)         Gets the minimum height for the stage.
+
+ 7.  void getMinWidth(double maxwidth)           Gets the minimum width for the stage.
+
+ 8.  void setFullScreen(boolean fullscreen)      Sets the fullscreen status of the stage.
+
+ 9.  void setIconified(boolean iconified)        Sets the iconified status of the stage.
+
+ 10. void setMaximized(boolean maximized)       Sets the maximized status of the stage.
+
+ 11. void setMaxHeight(double maxheight)        Sets the maximum height for the stage.
+
+ 12. void setMaxWidth(double maxwidth)          Sets the maximum width for the stage.
+
+ 13. void setMinHeight(double maxheight)        Sets the minimum height for the stage.
+
+ 14. void setMinWidth(double maxwidth)          Sets the minimum width for the stage.
+
+ 15. void setResizable(boolean resizable)       Sets the fullscreen status of the stage.
+
+ 16. void setScene(Scene scene)                 Sets the scene to be displayed on the stage.
+
+ 17. void setTitle(String title)                Sets the title to be displayed in the stage’s title bar,
+                                                if a title bar is visible.
+
+ 18. void show()                                Makes the stage visible.
+
+ 19. void showAndWait()                         Makes the stage visible and then waits until the stage
+                                                is closed before continuing.
+
+ 20. void showAndWait()                         Makes the stage visible and then waits until the stage
+                                                is closed before continuing.
+
+ 21. void toFront()                             Forces the stage to the foreground.
+
+ 22. void toBack()                              Forces the stage to the background.
+ */

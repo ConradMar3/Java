@@ -1,0 +1,35 @@
+Class           Method
+LocalTime       of(int hour, int minute)
+                of(int hour, int minute, int second)
+                of(int hour, int minute, int second, int nanoOfSecond)
+
+LocalDate       of(int year, int month, int dayOfMonth)
+                of(int year, Month month, int dayOfMonth)
+
+LocalDateTime    of(int year, int month, int dayOfMonth, int hour, int minute)
+                 of(int year, int month, int dayOfMonth, int hour, int minute, int second)
+                 of(int year, int month, int dayOfMonth, int hour, int minute, int
+                 second, int nanoOfSecond)
+                 of(int year, Month month, int dayOfMonth, int hour, int minute)
+                 of(int year, Month month, int dayOfMonth, int hour, int minute,
+                 int second)
+                 of(int year, Month month, int dayOfMonth, int hour, int minute,
+                 int second, int nanoOfSecond)
+                 of(LocalDate date, LocalTime time)
+
+OffsetTime       of(int hour, int minute, int second, int nanoOfSecond,
+                 ZoneOffset offset)
+                 of(LocalTime time, ZoneOffset offset)
+
+OffsetDateTime   of(int year, int month, int dayOfMonth, int hour, int minute, int
+                 second, int nanoOfSecond, ZoneOffset offset)
+                 of(LocalDate date, LocalTime time, ZoneOffset offset)
+                 of(LocalDateTime dateTime, ZoneOffset offset)
+
+MonthDay         of(int month, int dayOfMonth)
+                 of(Month month, int dayOfMonth)
+
+YearMonth        of(int year, int month)
+                 of(int year, Month month)
+
+Year             of(int year)

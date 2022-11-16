@@ -1,0 +1,24 @@
+In most cases, the compiler simply complains that the string literal is not correct.
+The following line won’t compile:
+
+String regex = "\w\d-\w\d"; // error: won't compile
+
+The compiler sees the backslashes in the string and expects to find a valid Java
+escape sequence, not a regular expression.
+
+Unfortunately, the solution to this problem is ugly: You have to double the backslashes wherever they occur.
+Java treats two backslashes in a row as an escaped
+backslash and places a single backslash in the string. Thus, you have to code the
+statement shown in the preceding example like this:
+
+String regex = "\\w\\d-\\w\\d"; // now it will compile
+
+If you’re in doubt about whether you’re coding your string literals right, just use
+System.out.println to print the resulting string. Then you can check the console
+output to make sure that you wrote the string literal right. If I followed the preceding
+statement with System.out.println(regex), the following output would
+appear on the console:
+
+\w\d-\w\d
+
+Thus I know that I coded the string literal for the regular expression correctly

@@ -1,0 +1,12 @@
+The last set of predefined classes is \w and \W.
+The \w class identifies any character that’s normally
+used in words, including uppercase and lowercase letters, digits,
+and underscores. An example shows how all that looks:
+
+Enter regex: \w\w\w\W\w\w\w
+Enter string: abc def
+Match.
+Enter string: 123 456
+Match.
+Enter string: 123_456
+Does not match

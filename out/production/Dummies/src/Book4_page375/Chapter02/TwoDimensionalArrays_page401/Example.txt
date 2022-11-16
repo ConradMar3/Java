@@ -1,0 +1,10 @@
+The elements of an array can be any type of object you want, including another
+array. In the latter case, you have a two-dimensional array, sometimes called an
+array of arrays.
+
+Two-dimensional arrays are often used to track data in column-and-row format,
+much the way that a spreadsheet works.
+
+Create an array with 20 elements, like this:
+
+> double[] sales = new sales[20];

@@ -1,0 +1,4 @@
+/*
+Moved to:
+> 'C:\Users\ConradMaré\Desktop\JavaOCP2\JavaOCP2\JavaOCP2_All.In.One\src\com\gmail\conradmare890317\util'
+*/

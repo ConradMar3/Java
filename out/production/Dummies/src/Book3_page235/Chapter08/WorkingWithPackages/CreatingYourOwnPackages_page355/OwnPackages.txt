@@ -1,0 +1,77 @@
+/*
+1. Pick a name for your package:
+
+    You can use any name you wish, but I recommend you follow the established
+    convention of using your Internet domain name (if you have one), only
+    backwards. I own a domain called LoweWriter.com, so I use the name com.
+    lowewriter for all my packages. (Using your domain name backwards
+    ensures that your package names are unique.)
+
+    Notice that package names are in all-lowercase letters. That’s not an absolute
+    requirement, but it’s a Java convention that you ought to stick to. If you start
+    using capital letters in your package names, you’ll be branded a rebel for sure.
+    And since Java is case-sensitive, a package named com.lowewriter is a
+    different package from one named com.LoweWriter.
+
+    You can add additional levels beyond the domain name if you want. For
+    example, I put my utility classes in a package named com.lowewriter.util.
+
+    If you don’t have a domain all to yourself, try using your e-mail address
+    backwards. For example, if your e-mail address is SomeBody@SomeCompany.
+    com, use com.somecompany.somebody for your package names. That way
+    they are still unique. (If you ever want to distribute your Java packages, you
+    should register a domain name. Nothing says “Amateur” like a package name
+    that starts with com.gmail. And, although a package name created from a
+    backwards e-mail address is almost sure to be unique, there is a small chance
+    that it won’t be.)
+
+2. Choose a directory on your hard drive to be the root of your class library:
+
+    You need a place on your hard drive to store your classes. I suggest you create
+    a directory such as c:\javaclasses.
+
+    This folder becomes the root directory for your Java packages.
+
+3. Create subdirectories within the root directory for your package name:
+
+    For example, for the package named com.lowewriter.util, create a
+    directory named com in the c:\javaclasses directory (assuming that’s the
+    name of your root). Then, in the com directory, create a directory named
+    lowewriter. Then, in lowewriter, create a directory named util. Thus, the
+    complete path to the directory that contains the classes for the com.lowewriter.util
+    package is c:\javaclasses\com\lowewriter\util.
+
+4. Add the root directory for your package to the ClassPath environment
+   variable:
+
+   The exact procedure for doing this depends on your operating system. You can
+   set the ClassPath by double-clicking System from the Control Panel. Click the
+   Advanced tab, and then click Environment Variables.
+
+   Be careful not to disturb any directories already listed in the ClassPath. To
+   add your root directory to the ClassPath, add a semicolon followed by the
+   path to your root directory to the end of the ClassPath value. For example,
+   suppose your ClassPath is already set to this:
+    > .;c:\util\classes
+
+   Then you modify it to look like this:
+    > .;c:\util\classes;c:\javaclasses
+
+   Here I added ;c:\javaclasses to the end of the ClassPath value
+
+5. Save the files for any classes you want to be in a particular package in the
+   directory for that package:
+
+   For example, save the files for a class that belongs to the com.lowewriter.
+   util package in c:\javaclasses\com\lowewriter\util.
+
+6. Add a package statement to the beginning of each source file that
+   belongs in a package.
+
+   The package statement simply provides the name for the package that any
+   class in the file is placed in. For example:
+    > package com.lowewriter.util;
+
+NOTE: The package statement must be the first non-comment statement in the file.
+*/
+

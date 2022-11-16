@@ -1,0 +1,18 @@
+/*
+1. protected Object clone()  -> Returns a copy of this object.
+2. boolean equals(Object obj) -> Indicates whether this object is equal to the obj object.
+3. protected void finalize() -> Is called by the garbage collector when the object is destroyed.
+4. Class getClass() -> Returns a Class object that represents this object’s runtime class.
+5. int hashCode() -> Returns this object’s hash code.
+6. void notify() -> Is used with threaded applications to wake up a thread that’s waiting on this object.
+7. void notifyAll() -> Is used with threaded applications to wake up all threads that are waiting on this object.
+8. String toString() -> Returns a String representation of this object.
+9. void wait() -> Causes this object’s thread to wait until another thread calls notify or notify All.
+10. void wait(Long timeout) -> Is a variation of the basic wait method.
+11. void wait(Long timeout,int nanos) -> Is yet another variation of the wait method.
+*/
+
+/*
+Note: Almost half of these methods (notify, notifyAll, and the three wait methods) are related to threading.
+      You find complete information about those five methods in Book 5, Chapter 1.
+*/
