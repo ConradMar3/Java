@@ -5,40 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/ClickMeProgram.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/src/main/java/com/example/clickmeprogram/ClickMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/src/main/java/com/example/clickmeprogram/ClickMeProgramController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/src/main/resources/com/example/clickmeprogram/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/java/com/example/javafxintellij_scenebuilder/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/java/com/example/javafxintellij_scenebuilder/HelloApplication.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/java/com/example/javafxintellij_scenebuilder/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/java/com/example/javafxintellij_scenebuilder/com.example.javafxintellij_scenebuilder in javaFx-IntelliJ.SceneBuilder.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/resources/com/example/javafxintellij_scenebuilder/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram_page710.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/src/application/SceneSwitcher.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/src/application/SceneSwitcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/SimpleJavaFxProgram_page709/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/.idea/encodings.xml" beforeDir="false" />
@@ -66,8 +36,7 @@
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/.idea/scopes/HelloFX_page567.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/src/application/AddSubtract5_LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/src/application/AddSubtract5_LambdaExpressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/src/application/SceneSwitcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/src/application/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/src/application/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/application.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/src/module-info.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/.classpath" afterDir="false" />
@@ -91,7 +60,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/java/com/example/javafxintellij_scenebuilder/HelloApplication.java" root0="FORCE_HIGHLIGHTING" />
@@ -439,6 +408,14 @@
       <workItem from="1666858222782" duration="4924000" />
       <workItem from="1666877828619" duration="67000" />
     </task>
+    <task id="LOCAL-00001" summary="2022/11/19 (pm)&#10;JavaFX - IntelliJ">
+      <created>1668613225096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668613225096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,5 +438,7 @@
       <path value="$PROJECT_DIR$/javaFX_V2.0/ClickMe" />
       <path value="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/SimpleJavaFxProgram_page709/ClickMeProgram_page709" />
     </ignored-roots>
+    <MESSAGE value="2022/11/19 (pm)&#10;JavaFX - IntelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/11/19 (pm)&#10;JavaFX - IntelliJ" />
   </component>
 </project>
