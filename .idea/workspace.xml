@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram_page710.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/src/application/SceneSwitcher.java" afterDir="false" />
@@ -42,6 +43,9 @@
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/src/application/Main.java" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,15 +64,30 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< Updated upstream
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/java/com/example/javafxintellij_scenebuilder/HelloApplication.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/.classpath" root0="SKIP_INSPECTION" />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram" />
+>>>>>>> Stashed changes
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+>>>>>>> Stashed changes
   <component name="NamedScopeManager">
     <scope name="Dummies" pattern="file:Dummies/src/Book03_ObjectOrientatedProgramming/Chapter05/TickTock/TickTock.java" />
   </component>
