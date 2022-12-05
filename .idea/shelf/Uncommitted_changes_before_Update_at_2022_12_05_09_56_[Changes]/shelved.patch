@@ -1,0 +1,21 @@
+Index: Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/src/main/java/com/example/clickme/TheClickMeProgram.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/src/main/java/com/example/clickme/TheClickMeProgram.java b/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/src/main/java/com/example/clickme/TheClickMeProgram.java
+new file mode 100644
+--- /dev/null	(date 1669558463932)
++++ b/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/src/main/java/com/example/clickme/TheClickMeProgram.java	(date 1669558463932)
+@@ -0,0 +1,11 @@
++package com.example.clickme;
++
++public interface TheClickMeProgram {
++    static void main(String[] args) {
++        launch(args);
++    }
++
++    void start(Stage primaryStage);
++
++    void buttonClick();
++}
