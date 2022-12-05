@@ -1,10 +1,11 @@
-package application;
+package Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.ClickCounter_page578.src.application;
 
-import javafx.application.*;
-import javafx.stage.*;
-import javafx.scene.*;
-import javafx.scene.layout.*;
-import javafx.scene.control.*;
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.layout.BorderPane;
+import javafx.stage.Stage;
 
 public class ClickCounter extends Application {
 	public static void main(String[] args) {

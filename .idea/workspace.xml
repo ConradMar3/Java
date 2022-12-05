@@ -4,122 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a83486-ac97-48d1-a248-4e6c07a0e77d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/src/main/java/com/example/theclickmeprogram/TheClickMeProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/src/main/resources/com/example/theclickmeprogram/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/src/main/java/com/example/clickme/TheClickMeProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/ClickMeProgram.iml" afterDir="false" />
+    <list default="true" id="c0a83486-ac97-48d1-a248-4e6c07a0e77d" name="Changes" comment="2022/11/19 (pm)&#10;JavaFX - IntelliJ">
+      <change afterPath="$PROJECT_DIR$/Dummies/application/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javaFx_IntelliJ.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/javaFx_IntelliJ.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_12_05_09_56__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_12_05_09_56__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/CreatingJNLPFile_page713.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/CreatingJNLPFile_page713.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/src/application/AddSubtract1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/src/application/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract1/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract2/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract2/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract2/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract2/src/application/AddSubtract2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract2/src/application/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract2/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract3/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract3/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract3/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract3/src/application/AddSubtract3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract3/src/application/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract3/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract4_LambdaExpressions/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract4_LambdaExpressions/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract4_LambdaExpressions/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract4_LambdaExpressions/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract4_LambdaExpressions/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract4_LambdaExpressions/src/application/AddSubtract4_LambdaExpressions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract4_LambdaExpressions/src/application/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract4_LambdaExpressions/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/src/application/AddSubtract5_LambdaExpressions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/src/application/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/AddSubtract5_LambdaExpressions/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Basic/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Basic/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Basic/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Basic/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SceneSwitcher/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SceneSwitcher/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SceneSwitcher/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SceneSwitcher/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SettingStageAndScene_page603/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SettingStageAndScene_page603/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SettingStageAndScene_page603/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SettingStageAndScene_page603/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SettingStageAndScene_page603/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SettingStageAndScene_page603/src/application/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SettingStageAndScene_page603/src/application/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Book06-Chapter03/SettingStageAndScene_page603/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/src/application/ClickCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/src/application/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/ClickCounter_page578/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/HelloFX_page567/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/HelloFX_page567/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/HelloFX_page567/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/HelloFX_page567/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/HelloFX_page567/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/HelloFX_page567/src/application/ClickMe1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/HelloFX_page567/src/application/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/HelloFX_page567/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Scene1/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Scene1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Scene1/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/Scene1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneBasic/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneBasic/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneBasic/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneBasic/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneBasic/src/application/Basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneBasic/src/application/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcher/src/SceneSwitcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/build.fxbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/src/application/SceneSwitcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/src/application/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/Dummies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/Dummies.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/bin/application/AddSubtract1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/bin/application/AddSubtract1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/src/application/AddSubtract1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/src/application/AddSubtract1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/ClickCounter_page578/src/application/ClickCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/ClickCounter_page578/src/application/ClickCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/ClickCounter_page578/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/ClickCounter_page578/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/src/main/resources/com/example/theclickmeprogram/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/src/main/resources/com/example/clickme/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Dummies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dummies/Dummies.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/src/main/resources/com/example/theclickmeprogram/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/src/main/resources/com/example/clickme/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +54,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -140,9 +69,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/java/com/example/javafxintellij_scenebuilder/HelloApplication.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -173,6 +99,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "javaSDK11",
+    "last_directory_selection": "C:/Users/ConradMaré/Desktop/Java-Dummies/Java/Dummies",
     "last_opened_file_path": "C:/Java/javafx-sdk-19/lib",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -213,7 +140,7 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClickMe1">
+  <component name="RunManager" selected="Application.ClickCounter">
     <configuration name="AddSubtract1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.AddSubtract1" />
       <module name="Dummies" />
@@ -237,12 +164,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Book4_page375.Chapter01.InitializingAnArray_page395.DaysOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter01.InitializingAnArray_page395.DaysOfTheWeek" />
+    <configuration name="Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.AddSubtract1.src.application.AddSubtract1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="javaSDK11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.AddSubtract1.src.application.AddSubtract1" />
       <module name="Dummies" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book4_page375.Chapter01.InitializingAnArray_page395.*" />
+          <option name="PATTERN" value="Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.AddSubtract1.src.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,6 +185,19 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_CalculatingDates_page552.CalculateDifference" />
       <module name="Dummies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClickCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.ClickCounter_page578.src.application.ClickCounter" />
+      <module name="Dummies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.ClickCounter_page578.src.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -368,19 +311,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Players" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book4_page375.Chapter01_UsingForLoopsWithArrays_page396.Players" />
-      <module name="Dummies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Book4_page375.Chapter01_UsingForLoopsWithArrays_page396.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Regex" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -453,31 +383,30 @@
       <item itemvalue="Application.MonthEnumiration" />
       <item itemvalue="Application.ZoneOffset" />
       <item itemvalue="Application.TimeTester" />
-      <item itemvalue="Application.ClickMeProgram" />
       <item itemvalue="Application.TypeChecking" />
       <item itemvalue="Application.HelloApp2_page60" />
       <item itemvalue="Application.DaysOfTheWeek" />
       <item itemvalue="Application.CountdownApp" />
+      <item itemvalue="Application.Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.AddSubtract1.src.application.AddSubtract1" />
+      <item itemvalue="Application.ClickCounter" />
       <item itemvalue="Application.ClickMe1" />
       <item itemvalue="Application.SceneSwitcher" />
       <item itemvalue="Application.HelloApplication" />
-      <item itemvalue="Application.Book4_page375.Chapter01.InitializingAnArray_page395.DaysOfTheWeek" />
-      <item itemvalue="Application.Players" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClickCounter" />
+        <item itemvalue="Application.Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.AddSubtract1.src.application.AddSubtract1" />
         <item itemvalue="Application.ClickMe1" />
         <item itemvalue="Application.HelloApplication" />
         <item itemvalue="Application.SceneSwitcher" />
-        <item itemvalue="Application.Players" />
-        <item itemvalue="Application.Book4_page375.Chapter01.InitializingAnArray_page395.DaysOfTheWeek" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96ea2af3-b27c-476a-a3d9-b485077e64d2" name="Changes" comment="" />
+      <changelist id="c0a83486-ac97-48d1-a248-4e6c07a0e77d" name="Changes" comment="" />
       <created>1659502557277</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />

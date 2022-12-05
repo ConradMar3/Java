@@ -1,4 +1,4 @@
-module AddSubtract1_page587 {
+module AddSubtract1 {
 	requires javafx.controls;
 	requires java.desktop;
 	requires javafx.base;

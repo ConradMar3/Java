@@ -1,13 +1,14 @@
 
-package application;
+package Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.AddSubtract1.src.application;
 
-import javafx.application.*;
+import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-import javafx.stage.*;
-import javafx.scene.*;
-import javafx.scene.layout.*;
-import javafx.scene.control.*;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.layout.HBox;
+import javafx.stage.Stage;
 
 public class AddSubtract1 extends Application implements EventHandler<ActionEvent> {
 
@@ -46,14 +47,7 @@ public class AddSubtract1 extends Application implements EventHandler<ActionEven
 	}
 
 	@Override
-	public void handle(ActionEvent e) {
-		if (e.getSource() == btnAdd) {
-			iCounter++;
-		} else {
-			if (e.getSource() == btnSubtract) {
-				iCounter--;
-			}
-		}
-		lbl.setText(Integer.toString(iCounter));
+	public void handle(ActionEvent actionEvent) {
+		
 	}
 }
