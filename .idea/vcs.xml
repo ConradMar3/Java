@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/ClickMeProgram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/javaFX_V2.0" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder" vcs="Git" />
   </component>

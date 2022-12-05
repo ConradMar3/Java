@@ -19,23 +19,23 @@ application:
 // The JNLP File for the ClickMe Application:
 <?xml version="1.0"encoding="UTF-8"?>
 <jnlp spec="1.0+"
-        codebase="http://www.lowewriter.com/ClickMe" ->3
-        href="ClickMe.jnlp">                         ->4
-            <information>
-                <title>ClickMe</title>               ->6
-                <vendor>LoweWriter</vendor>          ->7
-                <offline-allowed/>
-                </information>
-        <resources>
-            <!--Application Resources-->
-            <j2se version="1.6+"
-                href="http://www.oracle.com/technetwork/java/javase/downloads"/>
-            <jar href="ClickMe.jar"
-            main="true"/>                           ->14
-        </resources>
-    <application-desc main-class="ClickMe">         ->17
-    </application-desc>
-    <update check="background"/>
+        codebase="http://www.lowewriter.com/ClickMe"
+        href="ClickMe.jnlp">
+<information>
+<title>ClickMe</title>
+<vendor>LoweWriter</vendor>
+<offline-allowed/>
+</information>
+<resources>
+<!--Application Resources-->
+<j2se version="1.6+"
+        href="http://www.oracle.com/technetwork/java/javase/downloads"/>
+<jar href="ClickMe.jar"
+        main="true"/>->14
+</resources>
+<application-desc main-class="ClickMe">
+</application-desc>
+<update check="background"/>
 </jnlp>
 
 /*
