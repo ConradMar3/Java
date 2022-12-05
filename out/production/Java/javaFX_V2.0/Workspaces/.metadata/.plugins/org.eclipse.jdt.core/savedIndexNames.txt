@@ -1,0 +1,21 @@
+INDEX VERSION 1.131+C:\Users\ConradMaré\Desktop\Java-Dummies\Java\javaFX_V2.0\Workspaces\.metadata\.plugins\org.eclipse.jdt.core
+2731529441.index
+2764700044.index
+972218575.index
+163088518.index
+1114092946.index
+2508535242.index
+34817865.index
+2464942383.index
+3391270243.index
+2095212547.index
+3857398201.index
+1561642085.index
+3077395831.index
+2339518889.index
+3859361777.index
+578564804.index
+1537790236.index
+712267194.index
+291262241.index
+1521331102.index
