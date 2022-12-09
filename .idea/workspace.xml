@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ae5fd7c-4b14-4c4c-b359-d12014a62c2f" name="Changes" comment="2022/11/19 (pm)&#10;JavaFX - IntelliJ">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/ClickMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter02_ExaminingEvents_page584/ClickCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/javaFx_IntelliJ.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/javaFx_IntelliJ.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/application/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/ClickMeProgram.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram_page710.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/CreatingJNLPFile_page713.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/SetupJavaWebStart_page712.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/UnderstandingJavaWebStart_page712.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +103,7 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClickMe">
+  <component name="RunManager" selected="Application.Book06_page566_javaFX.Chapter01_page563.ClickCounter">
     <configuration name="AddSubtract1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.AddSubtract1" />
       <module name="Dummies" />
@@ -129,6 +123,20 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Book5_page475.Chapter04_BirthdayCalculator_page556.BirthdayFun" />
       <module name="Dummies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book06_page566_javaFX.Chapter01_page563.ClickCounter" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Chapter01_page563.ClickCounter" />
+      <module name="Dummies" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book06_page566_javaFX.Chapter01_page563.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -353,6 +361,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Book06_page566_javaFX.Chapter01_page563.ClickCounter" />
       <item itemvalue="Application.ClickMe" />
       <item itemvalue="Application.AddSubtract1" />
       <item itemvalue="Application.CountDown2" />
