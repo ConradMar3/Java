@@ -4,48 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a83486-ac97-48d1-a248-4e6c07a0e77d" name="Changes" comment="2022/11/19 (pm)&#10;JavaFX - IntelliJ">
-      <change afterPath="$PROJECT_DIR$/Dummies/application/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_12_05_09_56__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_12_05_09_56__Changes_.xml" afterDir="false" />
+    <list default="true" id="4ae5fd7c-4b14-4c4c-b359-d12014a62c2f" name="Changes" comment="2022/11/19 (pm)&#10;JavaFX - IntelliJ">
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter01_page563/ClickMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javaFx_IntelliJ.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/javaFx_IntelliJ.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/Dummies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/Dummies.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/bin/application/AddSubtract1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/bin/application/AddSubtract1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/src/application/AddSubtract1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/src/application/AddSubtract1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/AddSubtract1/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/ClickCounter_page578/src/application/ClickCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/ClickCounter_page578/src/application/ClickCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/ClickCounter_page578/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces/ClickCounter_page578/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/src/main/resources/com/example/theclickmeprogram/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/src/main/resources/com/example/clickme/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/Dummies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dummies/Dummies.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book06_page566_javaFX/Chapter01_page563/TheClickMeProgram/src/main/resources/com/example/theclickmeprogram/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMe/src/main/resources/com/example/clickme/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/application/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram/ClickMeProgram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/ClickMeProgram_page710.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/CreatingJNLPFile_page713.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/SetupJavaWebStart_page712.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dummies/src/Book07_WebProgramming/Chapter01_UsingJavaWebStart/UnderstandingJavaWebStart_page712.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +32,7 @@
         <option value="module-info" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -92,26 +61,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "javaSDK11",
-    "last_directory_selection": "C:/Users/ConradMaré/Desktop/Java-Dummies/Java/Dummies",
-    "last_opened_file_path": "C:/Java/javafx-sdk-19/lib",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "two.files.diff.last.used.file": "C:/Users/ConradMaré/Desktop/Java-Dummies/Java/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/src/application/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;javaSDK11&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/ConradMaré/Desktop/Java-Dummies/Java/Dummies&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/javafx-sdk-19/lib&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/ConradMaré/Desktop/Java-Dummies/Java/javaFX_V2.0/Workspaces/SceneSwitcherProgram_page609/src/application/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Book06_page566.Chapter01_SimplejavaFX_page566" />
@@ -140,7 +109,7 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClickCounter">
+  <component name="RunManager" selected="Application.ClickMe">
     <configuration name="AddSubtract1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.AddSubtract1" />
       <module name="Dummies" />
@@ -195,6 +164,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.ClickCounter_page578.src.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClickMe" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Chapter01_page563.ClickMe" />
+      <module name="Dummies" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book06_page566_javaFX.Chapter01_page563.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,6 +353,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ClickMe" />
       <item itemvalue="Application.AddSubtract1" />
       <item itemvalue="Application.CountDown2" />
       <item itemvalue="Application.Regex" />

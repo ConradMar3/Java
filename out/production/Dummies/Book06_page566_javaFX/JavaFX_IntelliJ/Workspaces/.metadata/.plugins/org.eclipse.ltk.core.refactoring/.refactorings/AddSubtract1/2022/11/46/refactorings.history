@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move element &apos;Book06-JavaFX&apos; to &apos;HelloFX_page567&apos;&#x0D;&#x0A;- Original project: &apos;AddSubtract1&apos;&#x0D;&#x0A;- Destination element: &apos;HelloFX_page567&apos;&#x0D;&#x0A;- Original element: &apos;Book06-JavaFX&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move folder" destination="=HelloFX_page567" element1="Book06-JavaFX" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1668149099641" units="0" version="1.0"/>
-</session>

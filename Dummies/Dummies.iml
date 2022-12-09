@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Book06_page566_javaFX/JavaFX_IntelliJ/Workspaces" />
     </content>
     <orderEntry type="jdk" jdkName="11 (3)" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
