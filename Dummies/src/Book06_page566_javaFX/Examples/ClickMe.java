@@ -1,4 +1,4 @@
-package Book06_page566_javaFX.Chapter01_page563;
+package Book06_page566_javaFX.Examples;
 
 import javafx.application.*;
 import javafx.scene.Scene;

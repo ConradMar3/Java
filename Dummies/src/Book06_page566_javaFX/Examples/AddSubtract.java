@@ -1,4 +1,4 @@
-package Book06_page566_javaFX.Chapter02_HandlingEvents_page585;
+package Book06_page566_javaFX.Examples;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
