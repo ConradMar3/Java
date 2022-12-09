@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ae5fd7c-4b14-4c4c-b359-d12014a62c2f" name="Changes" comment="2022/11/19 (pm)&#10;JavaFX - IntelliJ">
-      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Examples/Chapter02/AddSubtract5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Chapter03_ExaminingStageClass_page604/CreatingAnAlertBox.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Examples/Chapter03/ClickCounterAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dummies/src/Book06_page566_javaFX/Examples/Chapter03/SceneSwitcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/javaFx_IntelliJ.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/javaFx_IntelliJ.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -107,7 +109,7 @@
       <recent name="Book2_page65.Chapter03.ArithmeticOperators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddSubtract5">
+  <component name="RunManager" selected="Application.ClickCounterAlert">
     <configuration name="AddSubtract" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Examples.Chapter02.AddSubtract" />
       <module name="Dummies" />
@@ -253,6 +255,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClickCounterAlert" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Examples.Chapter03.ClickCounterAlert" />
+      <module name="Dummies" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book06_page566_javaFX.Examples.Chapter03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClickMe" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Examples.Chapter01.ClickMe" />
       <module name="Dummies" />
@@ -385,6 +401,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SceneSwitcher" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Examples.Chapter03.SceneSwitcher" />
+      <module name="Dummies" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Book06_page566_javaFX.Examples.Chapter03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TimeTester" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -427,6 +457,7 @@
       <item itemvalue="Application.AddSubtract4" />
       <item itemvalue="Application.AddSubtract5" />
       <item itemvalue="Application.Book06_page566_javaFX.Examples.Chapter01.ClickCounter" />
+      <item itemvalue="Application.ClickCounterAlert" />
       <item itemvalue="Application.ClickMe" />
       <item itemvalue="Application.AddSubtract1" />
       <item itemvalue="Application.CountDown2" />
@@ -445,6 +476,7 @@
       <item itemvalue="Application.HelloApp2_page60" />
       <item itemvalue="Application.DaysOfTheWeek" />
       <item itemvalue="Application.CountdownApp" />
+      <item itemvalue="Application.SceneSwitcher" />
       <item itemvalue="Application.AddSubtract2" />
       <item itemvalue="Application.Book06_page566_javaFX.JavaFX_IntelliJ.Workspaces.AddSubtract1.src.application.AddSubtract1" />
       <item itemvalue="Application.ClickCounter" />

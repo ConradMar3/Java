@@ -1,0 +1,36 @@
+JavaFX provides a simple means of displaying a basic message box by using
+the Alert class, which is similar to the JOptionPane class you learned back
+in Chapter 2 of Book 2. Table 3-3 shows the commonly used constructors and
+methods for this class.
+
+Commonly Used Constructors and Methods of the
+Alert class:
+
+Constructor                                              Description
+Alert(Alert.AlertType)                                   Creates a new alert of the specified type
+Alert(Alert.AlertType,String text)                       Creates a new alert of the specified type and sets the message text
+Alert(Alert.AlertType, String text, ButtonType type...)  Creates a new alert and sets the buttons to be displayed
+
+Method                                                   Description
+void setTitle(String text)                               Sets the title
+Optional<ButtonType>                                     Shows the alert and waits for the user’s response, which is returned
+showAndWait()                                            as a ButtonType object
+
+The AlertType parameter lets you specify one of several types of Alert dialogs:
+» AlertType.CONFIRMATION, which prompts the user to confirm an action.
+» AlertType.ERROR, which display an error message.
+» AlertType.INFORMATION, which displays an information dialog box.
+» AlertType.WARNING, which displays a warning message.
+» AlertType.NONE, which display a generic alert dialog.
+
+You can control what buttons appear on the Alert box by using the optional
+ButtonType parameter. You can choose from among the following types of buttons:
+» ButtonType.APPLY
+» ButtonType.CANCEL
+» ButtonType.CLOSE
+» ButtonType.FINISH
+» ButtonType.NEXT
+» ButtonType.NO
+» ButtonType.OK
+» ButtonType.PREVIOUS
+» ButtonType.YES
