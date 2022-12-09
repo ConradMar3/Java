@@ -1,4 +1,4 @@
-package Book06_page566_javaFX.Examples;
+package Book06_page566_javaFX.Examples.Chapter02;
 
 // AddSubtract with Anonymous Inner Classes.
 

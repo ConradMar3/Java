@@ -1,0 +1,19 @@
+Up to this point in this book, all the programs are console-based,
+like something right out of the 1980s. Console-based Java programs have their place,
+especially when you’re just starting with Java. But eventually you’ll want
+to create programs that work with a graphical user interface (GUI).
+
+This chapter gets you started in that direction using a Java GUI package called
+JavaFX to create simple GUI programs that display simple buttons and text labels.
+Along the way, you learn about several of the key JavaFX classes that let you create
+the layout of a GUI.
+
+Prior to JavaFX, the main way to create GUIs in Java was through the Swing API.
+JavaFX is similar to Swing in many ways, so if you’ve ever used Swing to
+create a user interface for a Java program, you have a good head start at learning
+JavaFX.
+
+Oracle has announced that JavaFX will eventually replace Swing. Although Swing
+is still supported in Java 8 and will be supported for the foreseeable future, Oracle
+is concentrating new features on JavaFX.
+Eventually, Swing will become obsolete.
