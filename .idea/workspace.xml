@@ -108,12 +108,12 @@
   </component>
   <component name="RunManager" selected="Application.AddSubtract3">
     <configuration name="AddSubtract" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Chapter02_HandlingEvents_page585.AddSubtract" />
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Examples.AddSubtract" />
       <module name="Dummies" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book06_page566_javaFX.Chapter02_HandlingEvents_page585.*" />
+          <option name="PATTERN" value="Book06_page566_javaFX.Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +136,12 @@
       </method>
     </configuration>
     <configuration name="AddSubtract2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Chapter02_HandlingEvents_page585.AddSubtract2" />
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Examples.AddSubtract2" />
       <module name="Dummies" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book06_page566_javaFX.Chapter02_HandlingEvents_page585.*" />
+          <option name="PATTERN" value="Book06_page566_javaFX.Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +150,12 @@
       </method>
     </configuration>
     <configuration name="AddSubtract3" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Chapter02_HandlingEvents_page585.AddSubtract3" />
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Examples.AddSubtract3" />
       <module name="Dummies" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book06_page566_javaFX.Chapter02_HandlingEvents_page585.*" />
+          <option name="PATTERN" value="Book06_page566_javaFX.Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,13 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Book06_page566_javaFX.Chapter01_page563.ClickCounter" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Chapter01_page563.ClickCounter" />
+    <configuration name="Book06_page566_javaFX.Examples.ClickCounter" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Examples.ClickCounter" />
       <module name="Dummies" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book06_page566_javaFX.Chapter01_page563.*" />
+          <option name="PATTERN" value="Book06_page566_javaFX.Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +225,12 @@
       </method>
     </configuration>
     <configuration name="ClickMe" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Chapter01_page563.ClickMe" />
+      <option name="MAIN_CLASS_NAME" value="Book06_page566_javaFX.Examples.ClickMe" />
       <module name="Dummies" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Java\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Book06_page566_javaFX.Chapter01_page563.*" />
+          <option name="PATTERN" value="Book06_page566_javaFX.Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -395,7 +395,7 @@
     <list>
       <item itemvalue="Application.AddSubtract" />
       <item itemvalue="Application.AddSubtract3" />
-      <item itemvalue="Application.Book06_page566_javaFX.Chapter01_page563.ClickCounter" />
+      <item itemvalue="Application.Book06_page566_javaFX.Examples.ClickCounter" />
       <item itemvalue="Application.ClickMe" />
       <item itemvalue="Application.AddSubtract1" />
       <item itemvalue="Application.CountDown2" />
