@@ -5,11 +5,17 @@
       <root url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="file://$PROJECT_DIR$/javaFX_V2.0/IntelliJ-javaFx/javaFx-IntelliJ.SceneBuilder/src/main/java" />
     </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" recursive="false" />
     <jarDirectory url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" recursive="false" />
     <jarDirectory url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" recursive="false" />
     <jarDirectory url="file://$PROJECT_DIR$/../../../../../Java/javafx-sdk-19/lib" recursive="false" />
